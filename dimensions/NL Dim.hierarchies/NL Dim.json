@@ -1,0 +1,42 @@
+{
+	"@type":"Hierarchy",
+	"Name":"NL Dim",
+	"Elements":
+	[
+		{
+			"Name":"a",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Total",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"b",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"c",
+			"Type":"Numeric"
+		}
+	],
+	"Edges":
+	[
+		{
+			"ParentName":"Total",
+			"ComponentName":"a",
+			"Weight":1000.20000000000005
+		},
+		{
+			"ParentName":"Total",
+			"ComponentName":"b",
+			"Weight":2000.29999999999995
+		},
+		{
+			"ParentName":"Total",
+			"ComponentName":"c",
+			"Weight":3000.40000000000009
+		}
+	],
+	"Subsets@Code.links":[]
+}
