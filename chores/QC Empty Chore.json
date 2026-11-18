@@ -1,0 +1,10 @@
+{
+	"@type":"Chore",
+	"Name":"QC Empty Chore",
+	"StartTime":"2022-07-06T14:44Z",
+	"DSTSensitive":true,
+	"Active":false,
+	"ExecutionMode":"SingleCommit",
+	"Frequency":"P1DT00H00M00S",
+	"Tasks":[]
+}

@@ -1,0 +1,16 @@
+{
+	"@type":"Subset",
+	"Name":"Forecast 2018 Outliers",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('QC pTrends')/Hierarchies('QC pTrends')/Elements('No Data - Begin')"
+		},
+		{
+			"@id":"Dimensions('QC pTrends')/Hierarchies('QC pTrends')/Elements('Skip Data')"
+		},
+		{
+			"@id":"Dimensions('QC pTrends')/Hierarchies('QC pTrends')/Elements('Member 27')"
+		}
+	]
+}

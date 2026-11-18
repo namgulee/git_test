@@ -1,0 +1,26 @@
+{
+	"@type":"Chore",
+	"Name":"QC bBusiness Refresh Data",
+	"StartTime":"2022-06-15T14:46Z",
+	"DSTSensitive":false,
+	"Active":false,
+	"ExecutionMode":"SingleCommit",
+	"Frequency":"P1DT00H00M00S",
+	"Tasks":
+	[
+		{
+			"Step":0,
+			"Parameters":
+			[
+				{
+					"Name":"pResult",
+					"Value":"QC bBusiness Refresh Data.blb"
+				}
+			],
+			"Process":
+			{
+				"@id":"Processes('QC bBusiness Refresh Data')"
+			}
+		}
+	]
+}

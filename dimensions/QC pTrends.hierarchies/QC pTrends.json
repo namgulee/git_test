@@ -1,0 +1,125 @@
+{
+	"@type":"Hierarchy",
+	"Name":"QC pTrends",
+	"Elements":
+	[
+		{
+			"Name":"Trend Up",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Trend Down",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Trend Flat",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Trend Mix",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Trend Up Down",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Trend Down Up",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Trend Pattern",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Trend Step",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"No Data",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"No Data - Begin",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Skip Data",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Negative Data",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Membre 13",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mitglied 14",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Miembro 15",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Jäsen 16",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"メンバー 17",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"会员 18",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"會員 19",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"회원 20",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 21",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 22",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 23",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 24",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 25",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 26",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 27",
+			"Type":"Numeric"
+		}
+	],
+	"Subsets@Code.links":
+	[
+		"QC pTrends.subsets/Forecast 2017 Outliers.json",
+		"QC pTrends.subsets/Forecast 2018 Outliers.json",
+		"QC pTrends.subsets/Forecast 2019 Outliers.json",
+		"QC pTrends.subsets/Forecast 2020 Outliers.json",
+		"QC pTrends.subsets/Forecast 2021 Outliers.json",
+		"QC pTrends.subsets/Forecast 2022 Outliers.json",
+		"QC pTrends.subsets/Forecast 2023 Outliers.json"
+	]
+}

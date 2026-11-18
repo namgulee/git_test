@@ -1,0 +1,26 @@
+{
+	"@type":"Chore",
+	"Name":"QC nNational Refresh Data",
+	"StartTime":"2022-06-15T14:00Z",
+	"DSTSensitive":false,
+	"Active":false,
+	"ExecutionMode":"SingleCommit",
+	"Frequency":"P1DT00H00M00S",
+	"Tasks":
+	[
+		{
+			"Step":0,
+			"Parameters":
+			[
+				{
+					"Name":"pResult",
+					"Value":"QC nNational Refresh Data.blb"
+				}
+			],
+			"Process":
+			{
+				"@id":"Processes('QC nNational Refresh Data')"
+			}
+		}
+	]
+}

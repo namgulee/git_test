@@ -1,0 +1,23 @@
+#region Prolog
+MinorErrorLogMax = -1;
+OnMinorErrorDoItemSkip = 1;
+NumRowsRead = 0;
+NumRowsProcessed = 0;
+SetInputCharacterSet('TM1CS_ISO_8859_1');
+CubeClearData('QC fPerformance');
+CubeClearData('}CellAnnotations_QC fPerformance');
+#endregion
+#region Metadata
+#****Begin: Generated Statements***
+#****End: Generated Statements****
+#endregion
+#region Data
+NumRowsRead = NumRowsRead + 1;
+CellPutN(StringToNumberEx(vValue,'.',','),'QC fPerformance',vDim1,vDim2,vDim3);
+NumRowsProcessed = NumRowsProcessed + 1;
+#endregion
+#region Epilog
+If (pResult @<> '');
+TextOutput(pResult, NumberToString(NumRowsRead), NumberToString(NumRowsProcessed));
+EndIf;
+#endregion

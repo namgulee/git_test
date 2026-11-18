@@ -1,0 +1,26 @@
+{
+	"@type":"Chore",
+	"Name":"QC pPredict Refresh Data 150",
+	"StartTime":"2024-07-19T14:48:30Z",
+	"DSTSensitive":false,
+	"Active":false,
+	"ExecutionMode":"SingleCommit",
+	"Frequency":"P0DT00H00M00S",
+	"Tasks":
+	[
+		{
+			"Step":0,
+			"Parameters":
+			[
+				{
+					"Name":"pResult",
+					"Value":""
+				}
+			],
+			"Process":
+			{
+				"@id":"Processes('QC pPredict Refresh Data 150')"
+			}
+		}
+	]
+}

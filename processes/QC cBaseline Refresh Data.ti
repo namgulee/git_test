@@ -1,0 +1,19 @@
+#region Prolog
+MinorErrorLogMax = -1;
+OnMinorErrorDoItemSkip = 1;
+NumRowsRead = 0;
+NumRowsProcessed = 0;
+SetInputCharacterSet('TM1CS_ISO_8859_1');
+CubeClearData('QC cBaseline');
+CubeClearData('}CellAnnotations_QC cBaseline');
+#endregion
+#region Data
+NumRowsRead = NumRowsRead + 1;
+CellPutN(StringToNumberEx(vValue1,'.',','),'QC cBaseline',vDim1_1,vDim2_1,vDim3_1);
+NumRowsProcessed = NumRowsProcessed + 1;
+#endregion
+#region Epilog
+If (pResult @<> '');
+TextOutput(pResult, NumberToString(NumRowsRead), NumberToString(NumRowsProcessed));
+EndIf;
+#endregion

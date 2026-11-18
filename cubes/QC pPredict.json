@@ -1,0 +1,22 @@
+{
+	"@type":"Cube",
+	"Name":"QC pPredict",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('QC pVersions')"
+		},
+		{
+			"@id":"Dimensions('QC pTrends')"
+		},
+		{
+			"@id":"Dimensions('QC pYears')"
+		}
+	],
+	"Views@Code.links":
+	[
+		"QC pPredict.views/Default.json",
+		"QC pPredict.views/Since 2013 View.json",
+		"QC pPredict.views/Since 2015 View.json"
+	]
+}

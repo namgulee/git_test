@@ -1,0 +1,17 @@
+{
+	"@type":"Cube",
+	"Name":"QC fPerformance",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('QC fVersions')"
+		},
+		{
+			"@id":"Dimensions('QC fNodes')"
+		},
+		{
+			"@id":"Dimensions('QC fDays')"
+		}
+	],
+	"Views@Code.links":[]
+}

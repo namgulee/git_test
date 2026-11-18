@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"QC pVersions",
+	"Hierarchies@Code.links":
+	[
+		"QC pVersions.hierarchies/QC pVersions.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('QC pVersions')/Hierarchies('QC pVersions')"
+	}
+}

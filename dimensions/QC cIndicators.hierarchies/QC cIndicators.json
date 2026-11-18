@@ -1,0 +1,28 @@
+{
+	"@type":"Hierarchy",
+	"Name":"QC cIndicators",
+	"Elements":
+	[
+		{
+			"Name":"Material Cost",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Manufacturing Cost",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Distribution Cost",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Market Demand",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Sales",
+			"Type":"Numeric"
+		}
+	],
+	"Subsets@Code.links":[]
+}

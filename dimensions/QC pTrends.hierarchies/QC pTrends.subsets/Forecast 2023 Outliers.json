@@ -1,0 +1,40 @@
+{
+	"@type":"Subset",
+	"Name":"Forecast 2023 Outliers",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('QC pTrends')/Hierarchies('QC pTrends')/Elements('Trend Pattern')"
+		},
+		{
+			"@id":"Dimensions('QC pTrends')/Hierarchies('QC pTrends')/Elements('No Data - Begin')"
+		},
+		{
+			"@id":"Dimensions('QC pTrends')/Hierarchies('QC pTrends')/Elements('Membre 13')"
+		},
+		{
+			"@id":"Dimensions('QC pTrends')/Hierarchies('QC pTrends')/Elements('Mitglied 14')"
+		},
+		{
+			"@id":"Dimensions('QC pTrends')/Hierarchies('QC pTrends')/Elements('Jäsen 16')"
+		},
+		{
+			"@id":"Dimensions('QC pTrends')/Hierarchies('QC pTrends')/Elements('會員 19')"
+		},
+		{
+			"@id":"Dimensions('QC pTrends')/Hierarchies('QC pTrends')/Elements('Member 21')"
+		},
+		{
+			"@id":"Dimensions('QC pTrends')/Hierarchies('QC pTrends')/Elements('Member 24')"
+		},
+		{
+			"@id":"Dimensions('QC pTrends')/Hierarchies('QC pTrends')/Elements('회원 20')"
+		},
+		{
+			"@id":"Dimensions('QC pTrends')/Hierarchies('QC pTrends')/Elements('Member 23')"
+		},
+		{
+			"@id":"Dimensions('QC pTrends')/Hierarchies('QC pTrends')/Elements('Skip Data')"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"@type":"Dimension",
+	"Name":"QC mVariables",
+	"AllLeavesHierarchyName":"Leaves",
+	"Hierarchies@Code.links":
+	[
+		"QC mVariables.hierarchies/QC mVariables.json",
+		"QC mVariables.hierarchies/QC mVariables Empty.json",
+		"QC mVariables.hierarchies/QC mVariables Hierarchy.json",
+		"QC mVariables.hierarchies/QC mVariables Hiérarchie.json",
+		"QC mVariables.hierarchies/QC mVariables 階層.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('QC mVariables')/Hierarchies('QC mVariables')"
+	}
+}

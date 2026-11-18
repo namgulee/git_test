@@ -1,0 +1,17 @@
+{
+	"@type":"Cube",
+	"Name":"QC cBaseline",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('QC cVersions')"
+		},
+		{
+			"@id":"Dimensions('QC cIndicators')"
+		},
+		{
+			"@id":"Dimensions('QC cYearsMonths')"
+		}
+	],
+	"Views@Code.links":[]
+}

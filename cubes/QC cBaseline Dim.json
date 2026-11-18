@@ -1,0 +1,23 @@
+{
+	"@type":"Cube",
+	"Name":"QC cBaseline Dim",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('QC cVersions')"
+		},
+		{
+			"@id":"Dimensions('QC cYears')"
+		},
+		{
+			"@id":"Dimensions('QC cIndicators')"
+		},
+		{
+			"@id":"Dimensions('QC cMonths')"
+		}
+	],
+	"Views@Code.links":
+	[
+		"QC cBaseline Dim.views/Default.json"
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"@type":"Subset",
+	"Name":"Forecast 2019 Outliers",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('QC pTrends')/Hierarchies('QC pTrends')/Elements('Trend Pattern')"
+		},
+		{
+			"@id":"Dimensions('QC pTrends')/Hierarchies('QC pTrends')/Elements('Trend Step')"
+		},
+		{
+			"@id":"Dimensions('QC pTrends')/Hierarchies('QC pTrends')/Elements('Skip Data')"
+		},
+		{
+			"@id":"Dimensions('QC pTrends')/Hierarchies('QC pTrends')/Elements('Negative Data')"
+		},
+		{
+			"@id":"Dimensions('QC pTrends')/Hierarchies('QC pTrends')/Elements('Membre 13')"
+		},
+		{
+			"@id":"Dimensions('QC pTrends')/Hierarchies('QC pTrends')/Elements('Member 26')"
+		}
+	]
+}

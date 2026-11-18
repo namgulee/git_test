@@ -1,0 +1,13 @@
+{
+	"@type":"Subset",
+	"Name":"Forecast 2017 Outliers",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('QC pTrends')/Hierarchies('QC pTrends')/Elements('Negative Data')"
+		},
+		{
+			"@id":"Dimensions('QC pTrends')/Hierarchies('QC pTrends')/Elements('会员 18')"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"@type":"MDXView",
+	"Name":"Since 2013 View",
+	"MDX@Code.link":"Since 2013 View.mdx",
+	"IsAutocalculate" : true,
+	"IsDeferComputeOnLeafDataEntry" : false,
+	"IsSuppressComputeOnOpen" : false,
+	"Meta" : 
+	{
+		"Aliases" : {},
+		"ContextSets" : 
+		{
+			"[QC pVersions].[QC pVersions]" : 
+			{
+				"Expression" : "{[QC pVersions].[QC pVersions].MEMBERS}"
+			}
+		},
+		"ExpandAboves" : 
+		{
+			"[QC pTrends].[QC pTrends]" : false,
+			"[QC pVersions].[QC pVersions]" : false,
+			"[QC pYears].[QC pYears]" : false
+		}
+	}
+}

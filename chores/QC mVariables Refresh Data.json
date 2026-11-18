@@ -1,0 +1,26 @@
+{
+	"@type":"Chore",
+	"Name":"QC mVariables Refresh Data",
+	"StartTime":"2024-02-08T01:00Z",
+	"DSTSensitive":true,
+	"Active":false,
+	"ExecutionMode":"SingleCommit",
+	"Frequency":"P1DT00H00M00S",
+	"Tasks":
+	[
+		{
+			"Step":0,
+			"Parameters":
+			[
+				{
+					"Name":"pResult",
+					"Value":""
+				}
+			],
+			"Process":
+			{
+				"@id":"Processes('QC mVariables Refresh Data')"
+			}
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"@type":"Cube",
+	"Name":"QC nNational Time",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('QC nProduct')"
+		},
+		{
+			"@id":"Dimensions('QC nLocation')"
+		},
+		{
+			"@id":"Dimensions('QC nChannel')"
+		},
+		{
+			"@id":"Dimensions('QC nTime')"
+		}
+	],
+	"Views@Code.links":[]
+}

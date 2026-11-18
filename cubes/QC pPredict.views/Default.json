@@ -1,0 +1,53 @@
+{
+	"@type":"NativeView",
+	"Name":"Default",
+	"Columns":
+	[
+		{
+			"Subset":
+			{
+				"Hierarchy":
+				{
+					"@id":"Dimensions('QC pYears')/Hierarchies('QC pYears')"
+				},
+				"Expression":"{[QC pYears].[QC pYears].MEMBERS}"
+			}
+		}
+	],
+	"Rows":
+	[
+		{
+			"Subset":
+			{
+				"Hierarchy":
+				{
+					"@id":"Dimensions('QC pTrends')/Hierarchies('QC pTrends')"
+				},
+				"Expression":"{[QC pTrends].[QC pTrends].MEMBERS}"
+			}
+		}
+	],
+	"Titles":
+	[
+		{
+			"Subset":
+			{
+				"Hierarchy":
+				{
+					"@id":"Dimensions('QC pVersions')/Hierarchies('QC pVersions')"
+				},
+				"Expression":"{[QC pVersions].[QC pVersions].MEMBERS}"
+			},
+			"Selected":
+			{
+				"@id":"Dimensions('QC pVersions')/Hierarchies('QC pVersions')/Elements('Actual')"
+			}
+		}
+	],
+	"SuppressEmptyColumns":false,
+	"SuppressEmptyRows":false,
+	"FormatString":"0.00",
+	"IsAutocalculate" : true,
+	"IsDeferComputeOnLeafDataEntry" : false,
+	"IsSuppressComputeOnOpen" : false
+}

@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"QC pTrends 150",
+	"Hierarchies@Code.links":
+	[
+		"QC pTrends 150.hierarchies/QC pTrends 150.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('QC pTrends 150')/Hierarchies('QC pTrends 150')"
+	}
+}

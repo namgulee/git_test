@@ -1,0 +1,82 @@
+{
+	"@type":"Subset",
+	"Name":"Forecast 2022 Outliers",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('QC pTrends')/Hierarchies('QC pTrends')/Elements('Trend Up')"
+		},
+		{
+			"@id":"Dimensions('QC pTrends')/Hierarchies('QC pTrends')/Elements('Trend Down')"
+		},
+		{
+			"@id":"Dimensions('QC pTrends')/Hierarchies('QC pTrends')/Elements('Trend Flat')"
+		},
+		{
+			"@id":"Dimensions('QC pTrends')/Hierarchies('QC pTrends')/Elements('Trend Mix')"
+		},
+		{
+			"@id":"Dimensions('QC pTrends')/Hierarchies('QC pTrends')/Elements('Trend Up Down')"
+		},
+		{
+			"@id":"Dimensions('QC pTrends')/Hierarchies('QC pTrends')/Elements('Trend Down Up')"
+		},
+		{
+			"@id":"Dimensions('QC pTrends')/Hierarchies('QC pTrends')/Elements('Trend Pattern')"
+		},
+		{
+			"@id":"Dimensions('QC pTrends')/Hierarchies('QC pTrends')/Elements('Trend Step')"
+		},
+		{
+			"@id":"Dimensions('QC pTrends')/Hierarchies('QC pTrends')/Elements('No Data - Begin')"
+		},
+		{
+			"@id":"Dimensions('QC pTrends')/Hierarchies('QC pTrends')/Elements('Skip Data')"
+		},
+		{
+			"@id":"Dimensions('QC pTrends')/Hierarchies('QC pTrends')/Elements('Negative Data')"
+		},
+		{
+			"@id":"Dimensions('QC pTrends')/Hierarchies('QC pTrends')/Elements('Mitglied 14')"
+		},
+		{
+			"@id":"Dimensions('QC pTrends')/Hierarchies('QC pTrends')/Elements('Miembro 15')"
+		},
+		{
+			"@id":"Dimensions('QC pTrends')/Hierarchies('QC pTrends')/Elements('メンバー 17')"
+		},
+		{
+			"@id":"Dimensions('QC pTrends')/Hierarchies('QC pTrends')/Elements('会员 18')"
+		},
+		{
+			"@id":"Dimensions('QC pTrends')/Hierarchies('QC pTrends')/Elements('會員 19')"
+		},
+		{
+			"@id":"Dimensions('QC pTrends')/Hierarchies('QC pTrends')/Elements('Member 21')"
+		},
+		{
+			"@id":"Dimensions('QC pTrends')/Hierarchies('QC pTrends')/Elements('Member 24')"
+		},
+		{
+			"@id":"Dimensions('QC pTrends')/Hierarchies('QC pTrends')/Elements('Member 25')"
+		},
+		{
+			"@id":"Dimensions('QC pTrends')/Hierarchies('QC pTrends')/Elements('Member 26')"
+		},
+		{
+			"@id":"Dimensions('QC pTrends')/Hierarchies('QC pTrends')/Elements('Member 27')"
+		},
+		{
+			"@id":"Dimensions('QC pTrends')/Hierarchies('QC pTrends')/Elements('Membre 13')"
+		},
+		{
+			"@id":"Dimensions('QC pTrends')/Hierarchies('QC pTrends')/Elements('Jäsen 16')"
+		},
+		{
+			"@id":"Dimensions('QC pTrends')/Hierarchies('QC pTrends')/Elements('Member 23')"
+		},
+		{
+			"@id":"Dimensions('QC pTrends')/Hierarchies('QC pTrends')/Elements('회원 20')"
+		}
+	]
+}

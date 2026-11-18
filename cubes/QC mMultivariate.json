@@ -1,0 +1,27 @@
+{
+	"@type":"Cube",
+	"Name":"QC mMultivariate",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('QC mVersions')"
+		},
+		{
+			"@id":"Dimensions('QC mTargets')"
+		},
+		{
+			"@id":"Dimensions('QC mPeriods')"
+		}
+	],
+	"Views@Code.links":
+	[
+		"QC mMultivariate.views/Since Period 100.json",
+		"QC mMultivariate.views/Since Period 185.json",
+		"QC mMultivariate.views/Since Period 186.json",
+		"QC mMultivariate.views/Since Period 187.json",
+		"QC mMultivariate.views/Since Period 188.json",
+		"QC mMultivariate.views/Since Period 234.json",
+		"QC mMultivariate.views/Since Period 235.json",
+		"QC mMultivariate.views/Since Period 236.json"
+	]
+}

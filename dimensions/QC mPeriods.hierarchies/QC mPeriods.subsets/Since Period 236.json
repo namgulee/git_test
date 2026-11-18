@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"Since Period 236",
+	"Expression":"{EXCEPT(TM1SubsetToSet([QC mPeriods].[QC mPeriods] , \"Since Period 235\" , \"public\") , {[QC mPeriods].[QC mPeriods].[Period 235]})}"
+}

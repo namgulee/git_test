@@ -1,0 +1,608 @@
+{
+	"@type":"Hierarchy",
+	"Name":"QC pTrends 150",
+	"Elements":
+	[
+		{
+			"Name":"Trend Up",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Trend Down",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Trend Flat",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Trend Mix",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Trend Up Down",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Trend Down Up",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Trend Pattern",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Trend Step",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"No Data",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"No Data - Begin",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Skip Data",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Negative Data",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Membre 13",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mitglied 14",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Miembro 15",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Jäsen 16",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"メンバー 17",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"会员 18",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"會員 19",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"회원 20",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 21",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 22",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 23",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 24",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 25",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 26",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 27",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 28",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 29",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 30",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 31",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 32",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 33",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 34",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 35",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 36",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 37",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 38",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 39",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 40",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 41",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 42",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 43",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 44",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 45",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 46",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 47",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 48",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 49",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 50",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 51",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 52",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 53",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 54",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 55",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 56",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 57",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 58",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 59",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 60",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 61",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 62",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 63",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 64",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 65",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 66",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 67",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 68",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 69",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 70",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 71",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 72",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 73",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 74",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 75",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 76",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 77",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 78",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 79",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 80",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 81",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 82",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 83",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 84",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 85",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 86",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 87",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 88",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 89",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 90",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 91",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 92",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 93",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 94",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 95",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 96",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 97",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 98",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 99",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 100",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 101",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 102",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 103",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 104",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 105",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 106",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 107",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 108",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 109",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 110",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 111",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 112",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 113",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 114",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 115",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 116",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 117",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 118",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 119",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 120",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 121",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 122",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 123",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 124",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 125",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 126",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 127",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 128",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 129",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 130",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 131",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 132",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 133",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 134",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 135",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 136",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 137",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 138",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 139",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 140",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 141",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 142",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 143",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 144",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 145",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 146",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 147",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 148",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 149",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Member 150",
+			"Type":"Numeric"
+		}
+	],
+	"Subsets@Code.links":[]
+}

@@ -1,0 +1,14 @@
+{
+	"@type":"Dimension",
+	"Name":"QC cIndicators",
+	"AllLeavesHierarchyName":"Leaves",
+	"Hierarchies@Code.links":
+	[
+		"QC cIndicators.hierarchies/QC cIndicators.json",
+		"QC cIndicators.hierarchies/QC cIndicators Hier.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('QC cIndicators')/Hierarchies('QC cIndicators')"
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"@type":"Dimension",
+	"Name":"QC cVersions",
+	"AllLeavesHierarchyName":"Leaves",
+	"Hierarchies@Code.links":
+	[
+		"QC cVersions.hierarchies/QC cVersions.json",
+		"QC cVersions.hierarchies/QC cVersions Hier.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('QC cVersions')/Hierarchies('QC cVersions')"
+	}
+}

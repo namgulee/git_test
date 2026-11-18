@@ -1,0 +1,1201 @@
+Versions,Indicators,Years,Months,Data
+Actual,Material Cost,2019,19-Jan,780.8610714
+Actual,Material Cost,2019,19-Feb,808.7416768
+Actual,Material Cost,2019,19-Mar,906.5321146
+Actual,Material Cost,2019,19-Apr,129.2325798
+Actual,Material Cost,2019,19-May,157.5003766
+Actual,Material Cost,2019,19-Jun,415.2819814
+Actual,Material Cost,2019,19-Jul,876.923965
+Actual,Material Cost,2019,19-Aug,194.3189577
+Actual,Material Cost,2019,19-Sep,32.33910937
+Actual,Material Cost,2019,19-Oct,967.5811598
+Actual,Material Cost,2019,19-Nov,616.8023072
+Actual,Material Cost,2019,19-Dec,428.3473305
+Actual,Material Cost,2020,20-Jan,954.0266166
+Actual,Material Cost,2020,20-Feb,602.2512782
+Actual,Material Cost,2020,20-Mar,263.0771641
+Actual,Material Cost,2020,20-Apr,613.3420653
+Actual,Material Cost,2020,20-May,910.2739118
+Actual,Material Cost,2020,20-Jun,744.0241721
+Actual,Material Cost,2020,20-Jul,711.9553794
+Actual,Material Cost,2020,20-Aug,356.5301003
+Actual,Material Cost,2020,20-Sep,796.8126274
+Actual,Material Cost,2020,20-Oct,843.7777667
+Actual,Material Cost,2020,20-Nov,290.9342948
+Actual,Material Cost,2020,20-Dec,405.1461614
+Actual,Material Cost,2021,21-Jan,978.8678913
+Actual,Material Cost,2021,21-Feb,800.4173323
+Actual,Material Cost,2021,21-Mar,911.8192494
+Actual,Material Cost,2021,21-Apr,785.5345127
+Actual,Material Cost,2021,21-May,578.806474
+Actual,Material Cost,2021,21-Jun,417.5770518
+Actual,Material Cost,2021,21-Jul,307.0028769
+Actual,Material Cost,2021,21-Aug,513.4504774
+Actual,Material Cost,2021,21-Sep,562.0593092
+Actual,Material Cost,2021,21-Oct,487.1263368
+Actual,Material Cost,2021,21-Nov,316.6913884
+Actual,Material Cost,2021,21-Dec,451.9135505
+Actual,Material Cost,2022,22-Jan,857.1403386
+Actual,Material Cost,2022,22-Feb,765.6996614
+Actual,Material Cost,2022,22-Mar,812.8859717
+Actual,Material Cost,2022,22-Apr,447.0749034
+Actual,Material Cost,2022,22-May,276.361
+Actual,Material Cost,2022,22-Jun,294.2402754
+Actual,Material Cost,2022,22-Jul,515.0181006
+Actual,Material Cost,2022,22-Aug,410.3010584
+Actual,Material Cost,2022,22-Sep,683.7986153
+Actual,Material Cost,2022,22-Oct,595.7419434
+Actual,Material Cost,2022,22-Nov,110.3389267
+Actual,Material Cost,2022,22-Dec,907.0353046
+Actual,Material Cost,2023,23-Jan,283.7028645
+Actual,Material Cost,2023,23-Feb,701.1359054
+Actual,Material Cost,2023,23-Mar,833.1610133
+Actual,Material Cost,2023,23-Apr,481.6301147
+Actual,Material Cost,2023,23-May,166.7002843
+Actual,Material Cost,2023,23-Jun,192.2196223
+Actual,Material Cost,2023,23-Jul,564.8405829
+Actual,Material Cost,2023,23-Aug,720.2476159
+Actual,Material Cost,2023,23-Sep,440.3620644
+Actual,Material Cost,2023,23-Oct,171.2573149
+Actual,Material Cost,2023,23-Nov,122.7002038
+Actual,Material Cost,2023,23-Dec,569.5347594
+Actual,Manufacturing Cost,2019,19-Jan,1954.67868
+Actual,Manufacturing Cost,2019,19-Feb,1887.951821
+Actual,Manufacturing Cost,2019,19-Mar,935.5819833
+Actual,Manufacturing Cost,2019,19-Apr,1975.102425
+Actual,Manufacturing Cost,2019,19-May,543.2397993
+Actual,Manufacturing Cost,2019,19-Jun,1714.239436
+Actual,Manufacturing Cost,2019,19-Jul,732.8469603
+Actual,Manufacturing Cost,2019,19-Aug,956.6302096
+Actual,Manufacturing Cost,2019,19-Sep,1449.502415
+Actual,Manufacturing Cost,2019,19-Oct,1192.311103
+Actual,Manufacturing Cost,2019,19-Nov,1459.766291
+Actual,Manufacturing Cost,2019,19-Dec,1199.758585
+Actual,Manufacturing Cost,2020,20-Jan,1018.151251
+Actual,Manufacturing Cost,2020,20-Feb,1794.187773
+Actual,Manufacturing Cost,2020,20-Mar,1092.116456
+Actual,Manufacturing Cost,2020,20-Apr,1346.127056
+Actual,Manufacturing Cost,2020,20-May,1111.929168
+Actual,Manufacturing Cost,2020,20-Jun,1875.209636
+Actual,Manufacturing Cost,2020,20-Jul,1798.314754
+Actual,Manufacturing Cost,2020,20-Aug,1229.676416
+Actual,Manufacturing Cost,2020,20-Sep,1890.342445
+Actual,Manufacturing Cost,2020,20-Oct,1575.552474
+Actual,Manufacturing Cost,2020,20-Nov,1725.15461
+Actual,Manufacturing Cost,2020,20-Dec,760.4244082
+Actual,Manufacturing Cost,2021,21-Jan,1359.805466
+Actual,Manufacturing Cost,2021,21-Feb,1286.416105
+Actual,Manufacturing Cost,2021,21-Mar,1369.109039
+Actual,Manufacturing Cost,2021,21-Apr,1658.826777
+Actual,Manufacturing Cost,2021,21-May,1351.544761
+Actual,Manufacturing Cost,2021,21-Jun,1077.338676
+Actual,Manufacturing Cost,2021,21-Jul,1596.674355
+Actual,Manufacturing Cost,2021,21-Aug,1514.121218
+Actual,Manufacturing Cost,2021,21-Sep,1352.065488
+Actual,Manufacturing Cost,2021,21-Oct,1140.512869
+Actual,Manufacturing Cost,2021,21-Nov,1480.925562
+Actual,Manufacturing Cost,2021,21-Dec,1543.482256
+Actual,Manufacturing Cost,2022,22-Jan,1651.06729
+Actual,Manufacturing Cost,2022,22-Feb,1698.26681
+Actual,Manufacturing Cost,2022,22-Mar,1821.831717
+Actual,Manufacturing Cost,2022,22-Apr,1246.088176
+Actual,Manufacturing Cost,2022,22-May,1619.123995
+Actual,Manufacturing Cost,2022,22-Jun,1954.248953
+Actual,Manufacturing Cost,2022,22-Jul,1702.9927
+Actual,Manufacturing Cost,2022,22-Aug,1646.830644
+Actual,Manufacturing Cost,2022,22-Sep,1165.730225
+Actual,Manufacturing Cost,2022,22-Oct,1809.315862
+Actual,Manufacturing Cost,2022,22-Nov,1502.947861
+Actual,Manufacturing Cost,2022,22-Dec,1281.007777
+Actual,Manufacturing Cost,2023,23-Jan,1285.844473
+Actual,Manufacturing Cost,2023,23-Feb,1527.174913
+Actual,Manufacturing Cost,2023,23-Mar,1095.789191
+Actual,Manufacturing Cost,2023,23-Apr,1492.773189
+Actual,Manufacturing Cost,2023,23-May,1824.059273
+Actual,Manufacturing Cost,2023,23-Jun,1656.576839
+Actual,Manufacturing Cost,2023,23-Jul,1457.336499
+Actual,Manufacturing Cost,2023,23-Aug,1328.853192
+Actual,Manufacturing Cost,2023,23-Sep,1245.262372
+Actual,Manufacturing Cost,2023,23-Oct,1439.589437
+Actual,Manufacturing Cost,2023,23-Nov,1501.538551
+Actual,Manufacturing Cost,2023,23-Dec,1145.832327
+Actual,Distribution Cost,2019,19-Jan,1763.165042
+Actual,Distribution Cost,2019,19-Feb,1286.058181
+Actual,Distribution Cost,2019,19-Mar,1760.240133
+Actual,Distribution Cost,2019,19-Apr,1299.460057
+Actual,Distribution Cost,2019,19-May,1230.418981
+Actual,Distribution Cost,2019,19-Jun,1208.690348
+Actual,Distribution Cost,2019,19-Jul,1392.9386
+Actual,Distribution Cost,2019,19-Aug,1806.244486
+Actual,Distribution Cost,2019,19-Sep,1853.634776
+Actual,Distribution Cost,2019,19-Oct,1275.247427
+Actual,Distribution Cost,2019,19-Nov,1601.813854
+Actual,Distribution Cost,2019,19-Dec,1147.296376
+Actual,Distribution Cost,2020,20-Jan,1414.360613
+Actual,Distribution Cost,2020,20-Feb,1254.720478
+Actual,Distribution Cost,2020,20-Mar,1314.799194
+Actual,Distribution Cost,2020,20-Apr,1872.944899
+Actual,Distribution Cost,2020,20-May,1266.020579
+Actual,Distribution Cost,2020,20-Jun,1805.483681
+Actual,Distribution Cost,2020,20-Jul,1366.824965
+Actual,Distribution Cost,2020,20-Aug,1190.251096
+Actual,Distribution Cost,2020,20-Sep,1816.596178
+Actual,Distribution Cost,2020,20-Oct,1362.136728
+Actual,Distribution Cost,2020,20-Nov,1705.157671
+Actual,Distribution Cost,2020,20-Dec,1984.493222
+Actual,Distribution Cost,2021,21-Jan,1288.855607
+Actual,Distribution Cost,2021,21-Feb,1429.952925
+Actual,Distribution Cost,2021,21-Mar,1865.08564
+Actual,Distribution Cost,2021,21-Apr,1700.278674
+Actual,Distribution Cost,2021,21-May,1317.766654
+Actual,Distribution Cost,2021,21-Jun,261.1941208
+Actual,Distribution Cost,2021,21-Jul,1403.047287
+Actual,Distribution Cost,2021,21-Aug,1054.524094
+Actual,Distribution Cost,2021,21-Sep,1048.744657
+Actual,Distribution Cost,2021,21-Oct,1037.424298
+Actual,Distribution Cost,2021,21-Nov,1875.298614
+Actual,Distribution Cost,2021,21-Dec,1833.013243
+Actual,Distribution Cost,2022,22-Jan,1020.238783
+Actual,Distribution Cost,2022,22-Feb,1432.335116
+Actual,Distribution Cost,2022,22-Mar,1482.289191
+Actual,Distribution Cost,2022,22-Apr,1177.554584
+Actual,Distribution Cost,2022,22-May,1147.564691
+Actual,Distribution Cost,2022,22-Jun,1500.100444
+Actual,Distribution Cost,2022,22-Jul,1674.884749
+Actual,Distribution Cost,2022,22-Aug,1246.085739
+Actual,Distribution Cost,2022,22-Sep,1481.764102
+Actual,Distribution Cost,2022,22-Oct,1172.252609
+Actual,Distribution Cost,2022,22-Nov,1863.60936
+Actual,Distribution Cost,2022,22-Dec,1914.827028
+Actual,Distribution Cost,2023,23-Jan,1824.907673
+Actual,Distribution Cost,2023,23-Feb,1790.466918
+Actual,Distribution Cost,2023,23-Mar,1284.497761
+Actual,Distribution Cost,2023,23-Apr,1006.618075
+Actual,Distribution Cost,2023,23-May,1188.789549
+Actual,Distribution Cost,2023,23-Jun,1157.651299
+Actual,Distribution Cost,2023,23-Jul,837.2137282
+Actual,Distribution Cost,2023,23-Aug,996.6432187
+Actual,Distribution Cost,2023,23-Sep,993.9882795
+Actual,Distribution Cost,2023,23-Oct,839.1257467
+Actual,Distribution Cost,2023,23-Nov,1185.858945
+Actual,Distribution Cost,2023,23-Dec,1719.878284
+Actual,Market Demand,2019,19-Jan,48.45811479
+Actual,Market Demand,2019,19-Feb,52.02260073
+Actual,Market Demand,2019,19-Mar,72.68176632
+Actual,Market Demand,2019,19-Apr,73.4184543
+Actual,Market Demand,2019,19-May,62.60600166
+Actual,Market Demand,2019,19-Jun,81.92483146
+Actual,Market Demand,2019,19-Jul,88.74710229
+Actual,Market Demand,2019,19-Aug,97.0509748
+Actual,Market Demand,2019,19-Sep,87.9627343
+Actual,Market Demand,2019,19-Oct,85.38770477
+Actual,Market Demand,2019,19-Nov,71.88640093
+Actual,Market Demand,2019,19-Dec,67.65354509
+Actual,Market Demand,2020,20-Jan,69.40020169
+Actual,Market Demand,2020,20-Feb,80.51132102
+Actual,Market Demand,2020,20-Mar,72.27189514
+Actual,Market Demand,2020,20-Apr,69.34881752
+Actual,Market Demand,2020,20-May,65.03978998
+Actual,Market Demand,2020,20-Jun,64.24220418
+Actual,Market Demand,2020,20-Jul,74.42557921
+Actual,Market Demand,2020,20-Aug,89.78263175
+Actual,Market Demand,2020,20-Sep,79.48324414
+Actual,Market Demand,2020,20-Oct,72.28772632
+Actual,Market Demand,2020,20-Nov,64.69912092
+Actual,Market Demand,2020,20-Dec,87.37175157
+Actual,Market Demand,2021,21-Jan,98.32886252
+Actual,Market Demand,2021,21-Feb,95.77146819
+Actual,Market Demand,2021,21-Mar,84.20624404
+Actual,Market Demand,2021,21-Apr,78.71252331
+Actual,Market Demand,2021,21-May,72.88790444
+Actual,Market Demand,2021,21-Jun,61.25670446
+Actual,Market Demand,2021,21-Jul,73.61230467
+Actual,Market Demand,2021,21-Aug,78.91375854
+Actual,Market Demand,2021,21-Sep,63.60062634
+Actual,Market Demand,2021,21-Oct,53.64565904
+Actual,Market Demand,2021,21-Nov,50.74854932
+Actual,Market Demand,2021,21-Dec,66.65329189
+Actual,Market Demand,2022,22-Jan,77.74045945
+Actual,Market Demand,2022,22-Feb,62.12561975
+Actual,Market Demand,2022,22-Mar,67.92079561
+Actual,Market Demand,2022,22-Apr,61.21833943
+Actual,Market Demand,2022,22-May,69.92608678
+Actual,Market Demand,2022,22-Jun,77.61431282
+Actual,Market Demand,2022,22-Jul,71.54532338
+Actual,Market Demand,2022,22-Aug,72.30757422
+Actual,Market Demand,2022,22-Sep,75.04347593
+Actual,Market Demand,2022,22-Oct,79.62901429
+Actual,Market Demand,2022,22-Nov,74.30982546
+Actual,Market Demand,2022,22-Dec,85.7079513
+Actual,Market Demand,2023,23-Jan,94.77871372
+Actual,Market Demand,2023,23-Feb,85.0284388
+Actual,Market Demand,2023,23-Mar,80.14588169
+Actual,Market Demand,2023,23-Apr,86.92263903
+Actual,Market Demand,2023,23-May,88.76045419
+Actual,Market Demand,2023,23-Jun,82.54046503
+Actual,Market Demand,2023,23-Jul,87.60183335
+Actual,Market Demand,2023,23-Aug,81.28611754
+Actual,Market Demand,2023,23-Sep,87.35881964
+Actual,Market Demand,2023,23-Oct,85.34439728
+Actual,Market Demand,2023,23-Nov,86.94536073
+Actual,Market Demand,2023,23-Dec,84.66937052
+Actual,Sales,2019,19-Jan,3027.167271
+Actual,Sales,2019,19-Feb,4674.782089
+Actual,Sales,2019,19-Mar,4317.474062
+Actual,Sales,2019,19-Apr,4861.9185
+Actual,Sales,2019,19-May,3658.692731
+Actual,Sales,2019,19-Jun,3206.981711
+Actual,Sales,2019,19-Jul,3554.98384
+Actual,Sales,2019,19-Aug,3175.523897
+Actual,Sales,2019,19-Sep,3781.797341
+Actual,Sales,2019,19-Oct,3127.961302
+Actual,Sales,2019,19-Nov,4063.158413
+Actual,Sales,2019,19-Dec,3301.816946
+Actual,Sales,2020,20-Jan,3166.811232
+Actual,Sales,2020,20-Feb,2718.520788
+Actual,Sales,2020,20-Mar,2194.491376
+Actual,Sales,2020,20-Apr,2295.493763
+Actual,Sales,2020,20-May,2924.076955
+Actual,Sales,2020,20-Jun,2900.884688
+Actual,Sales,2020,20-Jul,3278.912811
+Actual,Sales,2020,20-Aug,3777.447764
+Actual,Sales,2020,20-Sep,3844.165124
+Actual,Sales,2020,20-Oct,4289.150336
+Actual,Sales,2020,20-Nov,3162.018915
+Actual,Sales,2020,20-Dec,3558.063084
+Actual,Sales,2021,21-Jan,4015.580159
+Actual,Sales,2021,21-Feb,4888.107782
+Actual,Sales,2021,21-Mar,4464.833115
+Actual,Sales,2021,21-Apr,5305.833834
+Actual,Sales,2021,21-May,4571.143773
+Actual,Sales,2021,21-Jun,4519.019472
+Actual,Sales,2021,21-Jul,4002.998945
+Actual,Sales,2021,21-Aug,5394.80981
+Actual,Sales,2021,21-Sep,5472.740653
+Actual,Sales,2021,21-Oct,4559.882233
+Actual,Sales,2021,21-Nov,3330.064237
+Actual,Sales,2021,21-Dec,5323.457799
+Actual,Sales,2022,22-Jan,4982.755121
+Actual,Sales,2022,22-Feb,4068.894579
+Actual,Sales,2022,22-Mar,4215.132895
+Actual,Sales,2022,22-Apr,5386.55789
+Actual,Sales,2022,22-May,4603.052469
+Actual,Sales,2022,22-Jun,4569.580046
+Actual,Sales,2022,22-Jul,4077.899194
+Actual,Sales,2022,22-Aug,4513.799676
+Actual,Sales,2022,22-Sep,4550.963584
+Actual,Sales,2022,22-Oct,4893.956815
+Actual,Sales,2022,22-Nov,4835.679253
+Actual,Sales,2022,22-Dec,4706.959411
+Actual,Sales,2023,23-Jan,4937.250643
+Actual,Sales,2023,23-Feb,5421.306608
+Actual,Sales,2023,23-Mar,5858.393856
+Actual,Sales,2023,23-Apr,5321.56408
+Actual,Sales,2023,23-May,5218.859099
+Actual,Sales,2023,23-Jun,5471.787842
+Actual,Sales,2023,23-Jul,5222.25372
+Actual,Sales,2023,23-Aug,4577.185436
+Actual,Sales,2023,23-Sep,5622.037329
+Actual,Sales,2023,23-Oct,5604.063414
+Actual,Sales,2023,23-Nov,5929.79596
+Actual,Sales,2023,23-Dec,6025.240134
+Forecast,Material Cost,2019,19-Jan,780.8610714
+Forecast,Material Cost,2019,19-Feb,808.7416768
+Forecast,Material Cost,2019,19-Mar,906.5321146
+Forecast,Material Cost,2019,19-Apr,129.2325798
+Forecast,Material Cost,2019,19-May,157.5003766
+Forecast,Material Cost,2019,19-Jun,415.2819814
+Forecast,Material Cost,2019,19-Jul,876.923965
+Forecast,Material Cost,2019,19-Aug,194.3189577
+Forecast,Material Cost,2019,19-Sep,32.33910937
+Forecast,Material Cost,2019,19-Oct,967.5811598
+Forecast,Material Cost,2019,19-Nov,616.8023072
+Forecast,Material Cost,2019,19-Dec,428.3473305
+Forecast,Material Cost,2020,20-Jan,954.0266166
+Forecast,Material Cost,2020,20-Feb,602.2512782
+Forecast,Material Cost,2020,20-Mar,263.0771641
+Forecast,Material Cost,2020,20-Apr,613.3420653
+Forecast,Material Cost,2020,20-May,910.2739118
+Forecast,Material Cost,2020,20-Jun,744.0241721
+Forecast,Material Cost,2020,20-Jul,711.9553794
+Forecast,Material Cost,2020,20-Aug,356.5301003
+Forecast,Material Cost,2020,20-Sep,796.8126274
+Forecast,Material Cost,2020,20-Oct,843.7777667
+Forecast,Material Cost,2020,20-Nov,290.9342948
+Forecast,Material Cost,2020,20-Dec,405.1461614
+Forecast,Material Cost,2021,21-Jan,978.8678913
+Forecast,Material Cost,2021,21-Feb,800.4173323
+Forecast,Material Cost,2021,21-Mar,911.8192494
+Forecast,Material Cost,2021,21-Apr,785.5345127
+Forecast,Material Cost,2021,21-May,578.806474
+Forecast,Material Cost,2021,21-Jun,417.5770518
+Forecast,Material Cost,2021,21-Jul,307.0028769
+Forecast,Material Cost,2021,21-Aug,513.4504774
+Forecast,Material Cost,2021,21-Sep,562.0593092
+Forecast,Material Cost,2021,21-Oct,487.1263368
+Forecast,Material Cost,2021,21-Nov,316.6913884
+Forecast,Material Cost,2021,21-Dec,451.9135505
+Forecast,Material Cost,2022,22-Jan,857.1403386
+Forecast,Material Cost,2022,22-Feb,765.6996614
+Forecast,Material Cost,2022,22-Mar,812.8859717
+Forecast,Material Cost,2022,22-Apr,447.0749034
+Forecast,Material Cost,2022,22-May,276.361
+Forecast,Material Cost,2022,22-Jun,294.2402754
+Forecast,Material Cost,2022,22-Jul,515.0181006
+Forecast,Material Cost,2022,22-Aug,410.3010584
+Forecast,Material Cost,2022,22-Sep,683.7986153
+Forecast,Material Cost,2022,22-Oct,595.7419434
+Forecast,Material Cost,2022,22-Nov,110.3389267
+Forecast,Material Cost,2022,22-Dec,907.0353046
+Forecast,Material Cost,2023,23-Jan,283.7028645
+Forecast,Material Cost,2023,23-Feb,701.1359054
+Forecast,Material Cost,2023,23-Mar,833.1610133
+Forecast,Material Cost,2023,23-Apr,481.6301147
+Forecast,Material Cost,2023,23-May,166.7002843
+Forecast,Material Cost,2023,23-Jun,192.2196223
+Forecast,Material Cost,2023,23-Jul,564.8405829
+Forecast,Material Cost,2023,23-Aug,720.2476159
+Forecast,Material Cost,2023,23-Sep,440.3620644
+Forecast,Material Cost,2023,23-Oct,171.2573149
+Forecast,Material Cost,2023,23-Nov,122.7002038
+Forecast,Material Cost,2023,23-Dec,569.5347594
+Forecast,Manufacturing Cost,2019,19-Jan,1954.67868
+Forecast,Manufacturing Cost,2019,19-Feb,1887.951821
+Forecast,Manufacturing Cost,2019,19-Mar,935.5819833
+Forecast,Manufacturing Cost,2019,19-Apr,1975.102425
+Forecast,Manufacturing Cost,2019,19-May,543.2397993
+Forecast,Manufacturing Cost,2019,19-Jun,1714.239436
+Forecast,Manufacturing Cost,2019,19-Jul,732.8469603
+Forecast,Manufacturing Cost,2019,19-Aug,956.6302096
+Forecast,Manufacturing Cost,2019,19-Sep,1449.502415
+Forecast,Manufacturing Cost,2019,19-Oct,1192.311103
+Forecast,Manufacturing Cost,2019,19-Nov,1459.766291
+Forecast,Manufacturing Cost,2019,19-Dec,1199.758585
+Forecast,Manufacturing Cost,2020,20-Jan,1018.151251
+Forecast,Manufacturing Cost,2020,20-Feb,1794.187773
+Forecast,Manufacturing Cost,2020,20-Mar,1092.116456
+Forecast,Manufacturing Cost,2020,20-Apr,1346.127056
+Forecast,Manufacturing Cost,2020,20-May,1111.929168
+Forecast,Manufacturing Cost,2020,20-Jun,1875.209636
+Forecast,Manufacturing Cost,2020,20-Jul,1798.314754
+Forecast,Manufacturing Cost,2020,20-Aug,1229.676416
+Forecast,Manufacturing Cost,2020,20-Sep,1890.342445
+Forecast,Manufacturing Cost,2020,20-Oct,1575.552474
+Forecast,Manufacturing Cost,2020,20-Nov,1725.15461
+Forecast,Manufacturing Cost,2020,20-Dec,760.4244082
+Forecast,Manufacturing Cost,2021,21-Jan,1359.805466
+Forecast,Manufacturing Cost,2021,21-Feb,1286.416105
+Forecast,Manufacturing Cost,2021,21-Mar,1369.109039
+Forecast,Manufacturing Cost,2021,21-Apr,1658.826777
+Forecast,Manufacturing Cost,2021,21-May,1351.544761
+Forecast,Manufacturing Cost,2021,21-Jun,1077.338676
+Forecast,Manufacturing Cost,2021,21-Jul,1596.674355
+Forecast,Manufacturing Cost,2021,21-Aug,1514.121218
+Forecast,Manufacturing Cost,2021,21-Sep,1352.065488
+Forecast,Manufacturing Cost,2021,21-Oct,1140.512869
+Forecast,Manufacturing Cost,2021,21-Nov,1480.925562
+Forecast,Manufacturing Cost,2021,21-Dec,1543.482256
+Forecast,Manufacturing Cost,2022,22-Jan,1651.06729
+Forecast,Manufacturing Cost,2022,22-Feb,1698.26681
+Forecast,Manufacturing Cost,2022,22-Mar,1821.831717
+Forecast,Manufacturing Cost,2022,22-Apr,1246.088176
+Forecast,Manufacturing Cost,2022,22-May,1619.123995
+Forecast,Manufacturing Cost,2022,22-Jun,1954.248953
+Forecast,Manufacturing Cost,2022,22-Jul,1702.9927
+Forecast,Manufacturing Cost,2022,22-Aug,1646.830644
+Forecast,Manufacturing Cost,2022,22-Sep,1165.730225
+Forecast,Manufacturing Cost,2022,22-Oct,1809.315862
+Forecast,Manufacturing Cost,2022,22-Nov,1502.947861
+Forecast,Manufacturing Cost,2022,22-Dec,1281.007777
+Forecast,Manufacturing Cost,2023,23-Jan,1285.844473
+Forecast,Manufacturing Cost,2023,23-Feb,1527.174913
+Forecast,Manufacturing Cost,2023,23-Mar,1095.789191
+Forecast,Manufacturing Cost,2023,23-Apr,1492.773189
+Forecast,Manufacturing Cost,2023,23-May,1824.059273
+Forecast,Manufacturing Cost,2023,23-Jun,1656.576839
+Forecast,Manufacturing Cost,2023,23-Jul,1457.336499
+Forecast,Manufacturing Cost,2023,23-Aug,1328.853192
+Forecast,Manufacturing Cost,2023,23-Sep,1245.262372
+Forecast,Manufacturing Cost,2023,23-Oct,1439.589437
+Forecast,Manufacturing Cost,2023,23-Nov,1501.538551
+Forecast,Manufacturing Cost,2023,23-Dec,1145.832327
+Forecast,Distribution Cost,2019,19-Jan,1763.165042
+Forecast,Distribution Cost,2019,19-Feb,1286.058181
+Forecast,Distribution Cost,2019,19-Mar,1760.240133
+Forecast,Distribution Cost,2019,19-Apr,1299.460057
+Forecast,Distribution Cost,2019,19-May,1230.418981
+Forecast,Distribution Cost,2019,19-Jun,1208.690348
+Forecast,Distribution Cost,2019,19-Jul,1392.9386
+Forecast,Distribution Cost,2019,19-Aug,1806.244486
+Forecast,Distribution Cost,2019,19-Sep,1853.634776
+Forecast,Distribution Cost,2019,19-Oct,1275.247427
+Forecast,Distribution Cost,2019,19-Nov,1601.813854
+Forecast,Distribution Cost,2019,19-Dec,1147.296376
+Forecast,Distribution Cost,2020,20-Jan,1414.360613
+Forecast,Distribution Cost,2020,20-Feb,1254.720478
+Forecast,Distribution Cost,2020,20-Mar,1314.799194
+Forecast,Distribution Cost,2020,20-Apr,1872.944899
+Forecast,Distribution Cost,2020,20-May,1266.020579
+Forecast,Distribution Cost,2020,20-Jun,1805.483681
+Forecast,Distribution Cost,2020,20-Jul,1366.824965
+Forecast,Distribution Cost,2020,20-Aug,1190.251096
+Forecast,Distribution Cost,2020,20-Sep,1816.596178
+Forecast,Distribution Cost,2020,20-Oct,1362.136728
+Forecast,Distribution Cost,2020,20-Nov,1705.157671
+Forecast,Distribution Cost,2020,20-Dec,1984.493222
+Forecast,Distribution Cost,2021,21-Jan,1288.855607
+Forecast,Distribution Cost,2021,21-Feb,1429.952925
+Forecast,Distribution Cost,2021,21-Mar,1865.08564
+Forecast,Distribution Cost,2021,21-Apr,1700.278674
+Forecast,Distribution Cost,2021,21-May,1317.766654
+Forecast,Distribution Cost,2021,21-Jun,261.1941208
+Forecast,Distribution Cost,2021,21-Jul,1403.047287
+Forecast,Distribution Cost,2021,21-Aug,1054.524094
+Forecast,Distribution Cost,2021,21-Sep,1048.744657
+Forecast,Distribution Cost,2021,21-Oct,1037.424298
+Forecast,Distribution Cost,2021,21-Nov,1875.298614
+Forecast,Distribution Cost,2021,21-Dec,1833.013243
+Forecast,Distribution Cost,2022,22-Jan,1020.238783
+Forecast,Distribution Cost,2022,22-Feb,1432.335116
+Forecast,Distribution Cost,2022,22-Mar,1482.289191
+Forecast,Distribution Cost,2022,22-Apr,1177.554584
+Forecast,Distribution Cost,2022,22-May,1147.564691
+Forecast,Distribution Cost,2022,22-Jun,1500.100444
+Forecast,Distribution Cost,2022,22-Jul,1674.884749
+Forecast,Distribution Cost,2022,22-Aug,1246.085739
+Forecast,Distribution Cost,2022,22-Sep,1481.764102
+Forecast,Distribution Cost,2022,22-Oct,1172.252609
+Forecast,Distribution Cost,2022,22-Nov,1863.60936
+Forecast,Distribution Cost,2022,22-Dec,1914.827028
+Forecast,Distribution Cost,2023,23-Jan,1824.907673
+Forecast,Distribution Cost,2023,23-Feb,1790.466918
+Forecast,Distribution Cost,2023,23-Mar,1284.497761
+Forecast,Distribution Cost,2023,23-Apr,1006.618075
+Forecast,Distribution Cost,2023,23-May,1188.789549
+Forecast,Distribution Cost,2023,23-Jun,1157.651299
+Forecast,Distribution Cost,2023,23-Jul,837.2137282
+Forecast,Distribution Cost,2023,23-Aug,996.6432187
+Forecast,Distribution Cost,2023,23-Sep,993.9882795
+Forecast,Distribution Cost,2023,23-Oct,839.1257467
+Forecast,Distribution Cost,2023,23-Nov,1185.858945
+Forecast,Distribution Cost,2023,23-Dec,1719.878284
+Forecast,Market Demand,2019,19-Jan,48.45811479
+Forecast,Market Demand,2019,19-Feb,52.02260073
+Forecast,Market Demand,2019,19-Mar,72.68176632
+Forecast,Market Demand,2019,19-Apr,73.4184543
+Forecast,Market Demand,2019,19-May,62.60600166
+Forecast,Market Demand,2019,19-Jun,81.92483146
+Forecast,Market Demand,2019,19-Jul,88.74710229
+Forecast,Market Demand,2019,19-Aug,97.0509748
+Forecast,Market Demand,2019,19-Sep,87.9627343
+Forecast,Market Demand,2019,19-Oct,85.38770477
+Forecast,Market Demand,2019,19-Nov,71.88640093
+Forecast,Market Demand,2019,19-Dec,67.65354509
+Forecast,Market Demand,2020,20-Jan,69.40020169
+Forecast,Market Demand,2020,20-Feb,80.51132102
+Forecast,Market Demand,2020,20-Mar,72.27189514
+Forecast,Market Demand,2020,20-Apr,69.34881752
+Forecast,Market Demand,2020,20-May,65.03978998
+Forecast,Market Demand,2020,20-Jun,64.24220418
+Forecast,Market Demand,2020,20-Jul,74.42557921
+Forecast,Market Demand,2020,20-Aug,89.78263175
+Forecast,Market Demand,2020,20-Sep,79.48324414
+Forecast,Market Demand,2020,20-Oct,72.28772632
+Forecast,Market Demand,2020,20-Nov,64.69912092
+Forecast,Market Demand,2020,20-Dec,87.37175157
+Forecast,Market Demand,2021,21-Jan,98.32886252
+Forecast,Market Demand,2021,21-Feb,95.77146819
+Forecast,Market Demand,2021,21-Mar,84.20624404
+Forecast,Market Demand,2021,21-Apr,78.71252331
+Forecast,Market Demand,2021,21-May,72.88790444
+Forecast,Market Demand,2021,21-Jun,61.25670446
+Forecast,Market Demand,2021,21-Jul,73.61230467
+Forecast,Market Demand,2021,21-Aug,78.91375854
+Forecast,Market Demand,2021,21-Sep,63.60062634
+Forecast,Market Demand,2021,21-Oct,53.64565904
+Forecast,Market Demand,2021,21-Nov,50.74854932
+Forecast,Market Demand,2021,21-Dec,66.65329189
+Forecast,Market Demand,2022,22-Jan,77.74045945
+Forecast,Market Demand,2022,22-Feb,62.12561975
+Forecast,Market Demand,2022,22-Mar,67.92079561
+Forecast,Market Demand,2022,22-Apr,61.21833943
+Forecast,Market Demand,2022,22-May,69.92608678
+Forecast,Market Demand,2022,22-Jun,77.61431282
+Forecast,Market Demand,2022,22-Jul,71.54532338
+Forecast,Market Demand,2022,22-Aug,72.30757422
+Forecast,Market Demand,2022,22-Sep,75.04347593
+Forecast,Market Demand,2022,22-Oct,79.62901429
+Forecast,Market Demand,2022,22-Nov,74.30982546
+Forecast,Market Demand,2022,22-Dec,85.7079513
+Forecast,Market Demand,2023,23-Jan,94.77871372
+Forecast,Market Demand,2023,23-Feb,85.0284388
+Forecast,Market Demand,2023,23-Mar,80.14588169
+Forecast,Market Demand,2023,23-Apr,86.92263903
+Forecast,Market Demand,2023,23-May,88.76045419
+Forecast,Market Demand,2023,23-Jun,82.54046503
+Forecast,Market Demand,2023,23-Jul,87.60183335
+Forecast,Market Demand,2023,23-Aug,81.28611754
+Forecast,Market Demand,2023,23-Sep,87.35881964
+Forecast,Market Demand,2023,23-Oct,85.34439728
+Forecast,Market Demand,2023,23-Nov,86.94536073
+Forecast,Market Demand,2023,23-Dec,84.66937052
+Forecast,Sales,2019,19-Jan,3027.167271
+Forecast,Sales,2019,19-Feb,4674.782089
+Forecast,Sales,2019,19-Mar,4317.474062
+Forecast,Sales,2019,19-Apr,4861.9185
+Forecast,Sales,2019,19-May,3658.692731
+Forecast,Sales,2019,19-Jun,3206.981711
+Forecast,Sales,2019,19-Jul,3554.98384
+Forecast,Sales,2019,19-Aug,3175.523897
+Forecast,Sales,2019,19-Sep,3781.797341
+Forecast,Sales,2019,19-Oct,3127.961302
+Forecast,Sales,2019,19-Nov,4063.158413
+Forecast,Sales,2019,19-Dec,3301.816946
+Forecast,Sales,2020,20-Jan,3166.811232
+Forecast,Sales,2020,20-Feb,2718.520788
+Forecast,Sales,2020,20-Mar,2194.491376
+Forecast,Sales,2020,20-Apr,2295.493763
+Forecast,Sales,2020,20-May,2924.076955
+Forecast,Sales,2020,20-Jun,2900.884688
+Forecast,Sales,2020,20-Jul,3278.912811
+Forecast,Sales,2020,20-Aug,3777.447764
+Forecast,Sales,2020,20-Sep,3844.165124
+Forecast,Sales,2020,20-Oct,4289.150336
+Forecast,Sales,2020,20-Nov,3162.018915
+Forecast,Sales,2020,20-Dec,3558.063084
+Forecast,Sales,2021,21-Jan,4015.580159
+Forecast,Sales,2021,21-Feb,4888.107782
+Forecast,Sales,2021,21-Mar,4464.833115
+Forecast,Sales,2021,21-Apr,5305.833834
+Forecast,Sales,2021,21-May,4571.143773
+Forecast,Sales,2021,21-Jun,4519.019472
+Forecast,Sales,2021,21-Jul,4002.998945
+Forecast,Sales,2021,21-Aug,5394.80981
+Forecast,Sales,2021,21-Sep,5472.740653
+Forecast,Sales,2021,21-Oct,4559.882233
+Forecast,Sales,2021,21-Nov,3330.064237
+Forecast,Sales,2021,21-Dec,5323.457799
+Forecast,Sales,2022,22-Jan,4982.755121
+Forecast,Sales,2022,22-Feb,4068.894579
+Forecast,Sales,2022,22-Mar,4215.132895
+Forecast,Sales,2022,22-Apr,5386.55789
+Forecast,Sales,2022,22-May,4603.052469
+Forecast,Sales,2022,22-Jun,4569.580046
+Forecast,Sales,2022,22-Jul,4077.899194
+Forecast,Sales,2022,22-Aug,4513.799676
+Forecast,Sales,2022,22-Sep,4550.963584
+Forecast,Sales,2022,22-Oct,4893.956815
+Forecast,Sales,2022,22-Nov,4835.679253
+Forecast,Sales,2022,22-Dec,4706.959411
+Forecast,Sales,2023,23-Jan,4937.250643
+Forecast,Sales,2023,23-Feb,5421.306608
+Forecast,Sales,2023,23-Mar,5858.393856
+Forecast,Sales,2023,23-Apr,5321.56408
+Forecast,Sales,2023,23-May,5218.859099
+Forecast,Sales,2023,23-Jun,5471.787842
+Forecast,Sales,2023,23-Jul,5222.25372
+Forecast,Sales,2023,23-Aug,4577.185436
+Forecast,Sales,2023,23-Sep,5622.037329
+Forecast,Sales,2023,23-Oct,5604.063414
+Forecast,Sales,2023,23-Nov,5929.79596
+Forecast,Sales,2023,23-Dec,6025.240134
+Forecast Low,Material Cost,2019,19-Jan,780.8610714
+Forecast Low,Material Cost,2019,19-Feb,808.7416768
+Forecast Low,Material Cost,2019,19-Mar,906.5321146
+Forecast Low,Material Cost,2019,19-Apr,129.2325798
+Forecast Low,Material Cost,2019,19-May,157.5003766
+Forecast Low,Material Cost,2019,19-Jun,415.2819814
+Forecast Low,Material Cost,2019,19-Jul,876.923965
+Forecast Low,Material Cost,2019,19-Aug,194.3189577
+Forecast Low,Material Cost,2019,19-Sep,32.33910937
+Forecast Low,Material Cost,2019,19-Oct,967.5811598
+Forecast Low,Material Cost,2019,19-Nov,616.8023072
+Forecast Low,Material Cost,2019,19-Dec,428.3473305
+Forecast Low,Material Cost,2020,20-Jan,954.0266166
+Forecast Low,Material Cost,2020,20-Feb,602.2512782
+Forecast Low,Material Cost,2020,20-Mar,263.0771641
+Forecast Low,Material Cost,2020,20-Apr,613.3420653
+Forecast Low,Material Cost,2020,20-May,910.2739118
+Forecast Low,Material Cost,2020,20-Jun,744.0241721
+Forecast Low,Material Cost,2020,20-Jul,711.9553794
+Forecast Low,Material Cost,2020,20-Aug,356.5301003
+Forecast Low,Material Cost,2020,20-Sep,796.8126274
+Forecast Low,Material Cost,2020,20-Oct,843.7777667
+Forecast Low,Material Cost,2020,20-Nov,290.9342948
+Forecast Low,Material Cost,2020,20-Dec,405.1461614
+Forecast Low,Material Cost,2021,21-Jan,978.8678913
+Forecast Low,Material Cost,2021,21-Feb,800.4173323
+Forecast Low,Material Cost,2021,21-Mar,911.8192494
+Forecast Low,Material Cost,2021,21-Apr,785.5345127
+Forecast Low,Material Cost,2021,21-May,578.806474
+Forecast Low,Material Cost,2021,21-Jun,417.5770518
+Forecast Low,Material Cost,2021,21-Jul,307.0028769
+Forecast Low,Material Cost,2021,21-Aug,513.4504774
+Forecast Low,Material Cost,2021,21-Sep,562.0593092
+Forecast Low,Material Cost,2021,21-Oct,487.1263368
+Forecast Low,Material Cost,2021,21-Nov,316.6913884
+Forecast Low,Material Cost,2021,21-Dec,451.9135505
+Forecast Low,Material Cost,2022,22-Jan,857.1403386
+Forecast Low,Material Cost,2022,22-Feb,765.6996614
+Forecast Low,Material Cost,2022,22-Mar,812.8859717
+Forecast Low,Material Cost,2022,22-Apr,447.0749034
+Forecast Low,Material Cost,2022,22-May,276.361
+Forecast Low,Material Cost,2022,22-Jun,294.2402754
+Forecast Low,Material Cost,2022,22-Jul,515.0181006
+Forecast Low,Material Cost,2022,22-Aug,410.3010584
+Forecast Low,Material Cost,2022,22-Sep,683.7986153
+Forecast Low,Material Cost,2022,22-Oct,595.7419434
+Forecast Low,Material Cost,2022,22-Nov,110.3389267
+Forecast Low,Material Cost,2022,22-Dec,907.0353046
+Forecast Low,Material Cost,2023,23-Jan,283.7028645
+Forecast Low,Material Cost,2023,23-Feb,701.1359054
+Forecast Low,Material Cost,2023,23-Mar,833.1610133
+Forecast Low,Material Cost,2023,23-Apr,481.6301147
+Forecast Low,Material Cost,2023,23-May,166.7002843
+Forecast Low,Material Cost,2023,23-Jun,192.2196223
+Forecast Low,Material Cost,2023,23-Jul,564.8405829
+Forecast Low,Material Cost,2023,23-Aug,720.2476159
+Forecast Low,Material Cost,2023,23-Sep,440.3620644
+Forecast Low,Material Cost,2023,23-Oct,171.2573149
+Forecast Low,Material Cost,2023,23-Nov,122.7002038
+Forecast Low,Material Cost,2023,23-Dec,569.5347594
+Forecast Low,Manufacturing Cost,2019,19-Jan,1954.67868
+Forecast Low,Manufacturing Cost,2019,19-Feb,1887.951821
+Forecast Low,Manufacturing Cost,2019,19-Mar,935.5819833
+Forecast Low,Manufacturing Cost,2019,19-Apr,1975.102425
+Forecast Low,Manufacturing Cost,2019,19-May,543.2397993
+Forecast Low,Manufacturing Cost,2019,19-Jun,1714.239436
+Forecast Low,Manufacturing Cost,2019,19-Jul,732.8469603
+Forecast Low,Manufacturing Cost,2019,19-Aug,956.6302096
+Forecast Low,Manufacturing Cost,2019,19-Sep,1449.502415
+Forecast Low,Manufacturing Cost,2019,19-Oct,1192.311103
+Forecast Low,Manufacturing Cost,2019,19-Nov,1459.766291
+Forecast Low,Manufacturing Cost,2019,19-Dec,1199.758585
+Forecast Low,Manufacturing Cost,2020,20-Jan,1018.151251
+Forecast Low,Manufacturing Cost,2020,20-Feb,1794.187773
+Forecast Low,Manufacturing Cost,2020,20-Mar,1092.116456
+Forecast Low,Manufacturing Cost,2020,20-Apr,1346.127056
+Forecast Low,Manufacturing Cost,2020,20-May,1111.929168
+Forecast Low,Manufacturing Cost,2020,20-Jun,1875.209636
+Forecast Low,Manufacturing Cost,2020,20-Jul,1798.314754
+Forecast Low,Manufacturing Cost,2020,20-Aug,1229.676416
+Forecast Low,Manufacturing Cost,2020,20-Sep,1890.342445
+Forecast Low,Manufacturing Cost,2020,20-Oct,1575.552474
+Forecast Low,Manufacturing Cost,2020,20-Nov,1725.15461
+Forecast Low,Manufacturing Cost,2020,20-Dec,760.4244082
+Forecast Low,Manufacturing Cost,2021,21-Jan,1359.805466
+Forecast Low,Manufacturing Cost,2021,21-Feb,1286.416105
+Forecast Low,Manufacturing Cost,2021,21-Mar,1369.109039
+Forecast Low,Manufacturing Cost,2021,21-Apr,1658.826777
+Forecast Low,Manufacturing Cost,2021,21-May,1351.544761
+Forecast Low,Manufacturing Cost,2021,21-Jun,1077.338676
+Forecast Low,Manufacturing Cost,2021,21-Jul,1596.674355
+Forecast Low,Manufacturing Cost,2021,21-Aug,1514.121218
+Forecast Low,Manufacturing Cost,2021,21-Sep,1352.065488
+Forecast Low,Manufacturing Cost,2021,21-Oct,1140.512869
+Forecast Low,Manufacturing Cost,2021,21-Nov,1480.925562
+Forecast Low,Manufacturing Cost,2021,21-Dec,1543.482256
+Forecast Low,Manufacturing Cost,2022,22-Jan,1651.06729
+Forecast Low,Manufacturing Cost,2022,22-Feb,1698.26681
+Forecast Low,Manufacturing Cost,2022,22-Mar,1821.831717
+Forecast Low,Manufacturing Cost,2022,22-Apr,1246.088176
+Forecast Low,Manufacturing Cost,2022,22-May,1619.123995
+Forecast Low,Manufacturing Cost,2022,22-Jun,1954.248953
+Forecast Low,Manufacturing Cost,2022,22-Jul,1702.9927
+Forecast Low,Manufacturing Cost,2022,22-Aug,1646.830644
+Forecast Low,Manufacturing Cost,2022,22-Sep,1165.730225
+Forecast Low,Manufacturing Cost,2022,22-Oct,1809.315862
+Forecast Low,Manufacturing Cost,2022,22-Nov,1502.947861
+Forecast Low,Manufacturing Cost,2022,22-Dec,1281.007777
+Forecast Low,Manufacturing Cost,2023,23-Jan,1285.844473
+Forecast Low,Manufacturing Cost,2023,23-Feb,1527.174913
+Forecast Low,Manufacturing Cost,2023,23-Mar,1095.789191
+Forecast Low,Manufacturing Cost,2023,23-Apr,1492.773189
+Forecast Low,Manufacturing Cost,2023,23-May,1824.059273
+Forecast Low,Manufacturing Cost,2023,23-Jun,1656.576839
+Forecast Low,Manufacturing Cost,2023,23-Jul,1457.336499
+Forecast Low,Manufacturing Cost,2023,23-Aug,1328.853192
+Forecast Low,Manufacturing Cost,2023,23-Sep,1245.262372
+Forecast Low,Manufacturing Cost,2023,23-Oct,1439.589437
+Forecast Low,Manufacturing Cost,2023,23-Nov,1501.538551
+Forecast Low,Manufacturing Cost,2023,23-Dec,1145.832327
+Forecast Low,Distribution Cost,2019,19-Jan,1763.165042
+Forecast Low,Distribution Cost,2019,19-Feb,1286.058181
+Forecast Low,Distribution Cost,2019,19-Mar,1760.240133
+Forecast Low,Distribution Cost,2019,19-Apr,1299.460057
+Forecast Low,Distribution Cost,2019,19-May,1230.418981
+Forecast Low,Distribution Cost,2019,19-Jun,1208.690348
+Forecast Low,Distribution Cost,2019,19-Jul,1392.9386
+Forecast Low,Distribution Cost,2019,19-Aug,1806.244486
+Forecast Low,Distribution Cost,2019,19-Sep,1853.634776
+Forecast Low,Distribution Cost,2019,19-Oct,1275.247427
+Forecast Low,Distribution Cost,2019,19-Nov,1601.813854
+Forecast Low,Distribution Cost,2019,19-Dec,1147.296376
+Forecast Low,Distribution Cost,2020,20-Jan,1414.360613
+Forecast Low,Distribution Cost,2020,20-Feb,1254.720478
+Forecast Low,Distribution Cost,2020,20-Mar,1314.799194
+Forecast Low,Distribution Cost,2020,20-Apr,1872.944899
+Forecast Low,Distribution Cost,2020,20-May,1266.020579
+Forecast Low,Distribution Cost,2020,20-Jun,1805.483681
+Forecast Low,Distribution Cost,2020,20-Jul,1366.824965
+Forecast Low,Distribution Cost,2020,20-Aug,1190.251096
+Forecast Low,Distribution Cost,2020,20-Sep,1816.596178
+Forecast Low,Distribution Cost,2020,20-Oct,1362.136728
+Forecast Low,Distribution Cost,2020,20-Nov,1705.157671
+Forecast Low,Distribution Cost,2020,20-Dec,1984.493222
+Forecast Low,Distribution Cost,2021,21-Jan,1288.855607
+Forecast Low,Distribution Cost,2021,21-Feb,1429.952925
+Forecast Low,Distribution Cost,2021,21-Mar,1865.08564
+Forecast Low,Distribution Cost,2021,21-Apr,1700.278674
+Forecast Low,Distribution Cost,2021,21-May,1317.766654
+Forecast Low,Distribution Cost,2021,21-Jun,261.1941208
+Forecast Low,Distribution Cost,2021,21-Jul,1403.047287
+Forecast Low,Distribution Cost,2021,21-Aug,1054.524094
+Forecast Low,Distribution Cost,2021,21-Sep,1048.744657
+Forecast Low,Distribution Cost,2021,21-Oct,1037.424298
+Forecast Low,Distribution Cost,2021,21-Nov,1875.298614
+Forecast Low,Distribution Cost,2021,21-Dec,1833.013243
+Forecast Low,Distribution Cost,2022,22-Jan,1020.238783
+Forecast Low,Distribution Cost,2022,22-Feb,1432.335116
+Forecast Low,Distribution Cost,2022,22-Mar,1482.289191
+Forecast Low,Distribution Cost,2022,22-Apr,1177.554584
+Forecast Low,Distribution Cost,2022,22-May,1147.564691
+Forecast Low,Distribution Cost,2022,22-Jun,1500.100444
+Forecast Low,Distribution Cost,2022,22-Jul,1674.884749
+Forecast Low,Distribution Cost,2022,22-Aug,1246.085739
+Forecast Low,Distribution Cost,2022,22-Sep,1481.764102
+Forecast Low,Distribution Cost,2022,22-Oct,1172.252609
+Forecast Low,Distribution Cost,2022,22-Nov,1863.60936
+Forecast Low,Distribution Cost,2022,22-Dec,1914.827028
+Forecast Low,Distribution Cost,2023,23-Jan,1824.907673
+Forecast Low,Distribution Cost,2023,23-Feb,1790.466918
+Forecast Low,Distribution Cost,2023,23-Mar,1284.497761
+Forecast Low,Distribution Cost,2023,23-Apr,1006.618075
+Forecast Low,Distribution Cost,2023,23-May,1188.789549
+Forecast Low,Distribution Cost,2023,23-Jun,1157.651299
+Forecast Low,Distribution Cost,2023,23-Jul,837.2137282
+Forecast Low,Distribution Cost,2023,23-Aug,996.6432187
+Forecast Low,Distribution Cost,2023,23-Sep,993.9882795
+Forecast Low,Distribution Cost,2023,23-Oct,839.1257467
+Forecast Low,Distribution Cost,2023,23-Nov,1185.858945
+Forecast Low,Distribution Cost,2023,23-Dec,1719.878284
+Forecast Low,Market Demand,2019,19-Jan,48.45811479
+Forecast Low,Market Demand,2019,19-Feb,52.02260073
+Forecast Low,Market Demand,2019,19-Mar,72.68176632
+Forecast Low,Market Demand,2019,19-Apr,73.4184543
+Forecast Low,Market Demand,2019,19-May,62.60600166
+Forecast Low,Market Demand,2019,19-Jun,81.92483146
+Forecast Low,Market Demand,2019,19-Jul,88.74710229
+Forecast Low,Market Demand,2019,19-Aug,97.0509748
+Forecast Low,Market Demand,2019,19-Sep,87.9627343
+Forecast Low,Market Demand,2019,19-Oct,85.38770477
+Forecast Low,Market Demand,2019,19-Nov,71.88640093
+Forecast Low,Market Demand,2019,19-Dec,67.65354509
+Forecast Low,Market Demand,2020,20-Jan,69.40020169
+Forecast Low,Market Demand,2020,20-Feb,80.51132102
+Forecast Low,Market Demand,2020,20-Mar,72.27189514
+Forecast Low,Market Demand,2020,20-Apr,69.34881752
+Forecast Low,Market Demand,2020,20-May,65.03978998
+Forecast Low,Market Demand,2020,20-Jun,64.24220418
+Forecast Low,Market Demand,2020,20-Jul,74.42557921
+Forecast Low,Market Demand,2020,20-Aug,89.78263175
+Forecast Low,Market Demand,2020,20-Sep,79.48324414
+Forecast Low,Market Demand,2020,20-Oct,72.28772632
+Forecast Low,Market Demand,2020,20-Nov,64.69912092
+Forecast Low,Market Demand,2020,20-Dec,87.37175157
+Forecast Low,Market Demand,2021,21-Jan,98.32886252
+Forecast Low,Market Demand,2021,21-Feb,95.77146819
+Forecast Low,Market Demand,2021,21-Mar,84.20624404
+Forecast Low,Market Demand,2021,21-Apr,78.71252331
+Forecast Low,Market Demand,2021,21-May,72.88790444
+Forecast Low,Market Demand,2021,21-Jun,61.25670446
+Forecast Low,Market Demand,2021,21-Jul,73.61230467
+Forecast Low,Market Demand,2021,21-Aug,78.91375854
+Forecast Low,Market Demand,2021,21-Sep,63.60062634
+Forecast Low,Market Demand,2021,21-Oct,53.64565904
+Forecast Low,Market Demand,2021,21-Nov,50.74854932
+Forecast Low,Market Demand,2021,21-Dec,66.65329189
+Forecast Low,Market Demand,2022,22-Jan,77.74045945
+Forecast Low,Market Demand,2022,22-Feb,62.12561975
+Forecast Low,Market Demand,2022,22-Mar,67.92079561
+Forecast Low,Market Demand,2022,22-Apr,61.21833943
+Forecast Low,Market Demand,2022,22-May,69.92608678
+Forecast Low,Market Demand,2022,22-Jun,77.61431282
+Forecast Low,Market Demand,2022,22-Jul,71.54532338
+Forecast Low,Market Demand,2022,22-Aug,72.30757422
+Forecast Low,Market Demand,2022,22-Sep,75.04347593
+Forecast Low,Market Demand,2022,22-Oct,79.62901429
+Forecast Low,Market Demand,2022,22-Nov,74.30982546
+Forecast Low,Market Demand,2022,22-Dec,85.7079513
+Forecast Low,Market Demand,2023,23-Jan,94.77871372
+Forecast Low,Market Demand,2023,23-Feb,85.0284388
+Forecast Low,Market Demand,2023,23-Mar,80.14588169
+Forecast Low,Market Demand,2023,23-Apr,86.92263903
+Forecast Low,Market Demand,2023,23-May,88.76045419
+Forecast Low,Market Demand,2023,23-Jun,82.54046503
+Forecast Low,Market Demand,2023,23-Jul,87.60183335
+Forecast Low,Market Demand,2023,23-Aug,81.28611754
+Forecast Low,Market Demand,2023,23-Sep,87.35881964
+Forecast Low,Market Demand,2023,23-Oct,85.34439728
+Forecast Low,Market Demand,2023,23-Nov,86.94536073
+Forecast Low,Market Demand,2023,23-Dec,84.66937052
+Forecast Low,Sales,2019,19-Jan,3027.167271
+Forecast Low,Sales,2019,19-Feb,4674.782089
+Forecast Low,Sales,2019,19-Mar,4317.474062
+Forecast Low,Sales,2019,19-Apr,4861.9185
+Forecast Low,Sales,2019,19-May,3658.692731
+Forecast Low,Sales,2019,19-Jun,3206.981711
+Forecast Low,Sales,2019,19-Jul,3554.98384
+Forecast Low,Sales,2019,19-Aug,3175.523897
+Forecast Low,Sales,2019,19-Sep,3781.797341
+Forecast Low,Sales,2019,19-Oct,3127.961302
+Forecast Low,Sales,2019,19-Nov,4063.158413
+Forecast Low,Sales,2019,19-Dec,3301.816946
+Forecast Low,Sales,2020,20-Jan,3166.811232
+Forecast Low,Sales,2020,20-Feb,2718.520788
+Forecast Low,Sales,2020,20-Mar,2194.491376
+Forecast Low,Sales,2020,20-Apr,2295.493763
+Forecast Low,Sales,2020,20-May,2924.076955
+Forecast Low,Sales,2020,20-Jun,2900.884688
+Forecast Low,Sales,2020,20-Jul,3278.912811
+Forecast Low,Sales,2020,20-Aug,3777.447764
+Forecast Low,Sales,2020,20-Sep,3844.165124
+Forecast Low,Sales,2020,20-Oct,4289.150336
+Forecast Low,Sales,2020,20-Nov,3162.018915
+Forecast Low,Sales,2020,20-Dec,3558.063084
+Forecast Low,Sales,2021,21-Jan,4015.580159
+Forecast Low,Sales,2021,21-Feb,4888.107782
+Forecast Low,Sales,2021,21-Mar,4464.833115
+Forecast Low,Sales,2021,21-Apr,5305.833834
+Forecast Low,Sales,2021,21-May,4571.143773
+Forecast Low,Sales,2021,21-Jun,4519.019472
+Forecast Low,Sales,2021,21-Jul,4002.998945
+Forecast Low,Sales,2021,21-Aug,5394.80981
+Forecast Low,Sales,2021,21-Sep,5472.740653
+Forecast Low,Sales,2021,21-Oct,4559.882233
+Forecast Low,Sales,2021,21-Nov,3330.064237
+Forecast Low,Sales,2021,21-Dec,5323.457799
+Forecast Low,Sales,2022,22-Jan,4982.755121
+Forecast Low,Sales,2022,22-Feb,4068.894579
+Forecast Low,Sales,2022,22-Mar,4215.132895
+Forecast Low,Sales,2022,22-Apr,5386.55789
+Forecast Low,Sales,2022,22-May,4603.052469
+Forecast Low,Sales,2022,22-Jun,4569.580046
+Forecast Low,Sales,2022,22-Jul,4077.899194
+Forecast Low,Sales,2022,22-Aug,4513.799676
+Forecast Low,Sales,2022,22-Sep,4550.963584
+Forecast Low,Sales,2022,22-Oct,4893.956815
+Forecast Low,Sales,2022,22-Nov,4835.679253
+Forecast Low,Sales,2022,22-Dec,4706.959411
+Forecast Low,Sales,2023,23-Jan,4937.250643
+Forecast Low,Sales,2023,23-Feb,5421.306608
+Forecast Low,Sales,2023,23-Mar,5858.393856
+Forecast Low,Sales,2023,23-Apr,5321.56408
+Forecast Low,Sales,2023,23-May,5218.859099
+Forecast Low,Sales,2023,23-Jun,5471.787842
+Forecast Low,Sales,2023,23-Jul,5222.25372
+Forecast Low,Sales,2023,23-Aug,4577.185436
+Forecast Low,Sales,2023,23-Sep,5622.037329
+Forecast Low,Sales,2023,23-Oct,5604.063414
+Forecast Low,Sales,2023,23-Nov,5929.79596
+Forecast Low,Sales,2023,23-Dec,6025.240134
+Forecast High,Material Cost,2019,19-Jan,780.8610714
+Forecast High,Material Cost,2019,19-Feb,808.7416768
+Forecast High,Material Cost,2019,19-Mar,906.5321146
+Forecast High,Material Cost,2019,19-Apr,129.2325798
+Forecast High,Material Cost,2019,19-May,157.5003766
+Forecast High,Material Cost,2019,19-Jun,415.2819814
+Forecast High,Material Cost,2019,19-Jul,876.923965
+Forecast High,Material Cost,2019,19-Aug,194.3189577
+Forecast High,Material Cost,2019,19-Sep,32.33910937
+Forecast High,Material Cost,2019,19-Oct,967.5811598
+Forecast High,Material Cost,2019,19-Nov,616.8023072
+Forecast High,Material Cost,2019,19-Dec,428.3473305
+Forecast High,Material Cost,2020,20-Jan,954.0266166
+Forecast High,Material Cost,2020,20-Feb,602.2512782
+Forecast High,Material Cost,2020,20-Mar,263.0771641
+Forecast High,Material Cost,2020,20-Apr,613.3420653
+Forecast High,Material Cost,2020,20-May,910.2739118
+Forecast High,Material Cost,2020,20-Jun,744.0241721
+Forecast High,Material Cost,2020,20-Jul,711.9553794
+Forecast High,Material Cost,2020,20-Aug,356.5301003
+Forecast High,Material Cost,2020,20-Sep,796.8126274
+Forecast High,Material Cost,2020,20-Oct,843.7777667
+Forecast High,Material Cost,2020,20-Nov,290.9342948
+Forecast High,Material Cost,2020,20-Dec,405.1461614
+Forecast High,Material Cost,2021,21-Jan,978.8678913
+Forecast High,Material Cost,2021,21-Feb,800.4173323
+Forecast High,Material Cost,2021,21-Mar,911.8192494
+Forecast High,Material Cost,2021,21-Apr,785.5345127
+Forecast High,Material Cost,2021,21-May,578.806474
+Forecast High,Material Cost,2021,21-Jun,417.5770518
+Forecast High,Material Cost,2021,21-Jul,307.0028769
+Forecast High,Material Cost,2021,21-Aug,513.4504774
+Forecast High,Material Cost,2021,21-Sep,562.0593092
+Forecast High,Material Cost,2021,21-Oct,487.1263368
+Forecast High,Material Cost,2021,21-Nov,316.6913884
+Forecast High,Material Cost,2021,21-Dec,451.9135505
+Forecast High,Material Cost,2022,22-Jan,857.1403386
+Forecast High,Material Cost,2022,22-Feb,765.6996614
+Forecast High,Material Cost,2022,22-Mar,812.8859717
+Forecast High,Material Cost,2022,22-Apr,447.0749034
+Forecast High,Material Cost,2022,22-May,276.361
+Forecast High,Material Cost,2022,22-Jun,294.2402754
+Forecast High,Material Cost,2022,22-Jul,515.0181006
+Forecast High,Material Cost,2022,22-Aug,410.3010584
+Forecast High,Material Cost,2022,22-Sep,683.7986153
+Forecast High,Material Cost,2022,22-Oct,595.7419434
+Forecast High,Material Cost,2022,22-Nov,110.3389267
+Forecast High,Material Cost,2022,22-Dec,907.0353046
+Forecast High,Material Cost,2023,23-Jan,283.7028645
+Forecast High,Material Cost,2023,23-Feb,701.1359054
+Forecast High,Material Cost,2023,23-Mar,833.1610133
+Forecast High,Material Cost,2023,23-Apr,481.6301147
+Forecast High,Material Cost,2023,23-May,166.7002843
+Forecast High,Material Cost,2023,23-Jun,192.2196223
+Forecast High,Material Cost,2023,23-Jul,564.8405829
+Forecast High,Material Cost,2023,23-Aug,720.2476159
+Forecast High,Material Cost,2023,23-Sep,440.3620644
+Forecast High,Material Cost,2023,23-Oct,171.2573149
+Forecast High,Material Cost,2023,23-Nov,122.7002038
+Forecast High,Material Cost,2023,23-Dec,569.5347594
+Forecast High,Manufacturing Cost,2019,19-Jan,1954.67868
+Forecast High,Manufacturing Cost,2019,19-Feb,1887.951821
+Forecast High,Manufacturing Cost,2019,19-Mar,935.5819833
+Forecast High,Manufacturing Cost,2019,19-Apr,1975.102425
+Forecast High,Manufacturing Cost,2019,19-May,543.2397993
+Forecast High,Manufacturing Cost,2019,19-Jun,1714.239436
+Forecast High,Manufacturing Cost,2019,19-Jul,732.8469603
+Forecast High,Manufacturing Cost,2019,19-Aug,956.6302096
+Forecast High,Manufacturing Cost,2019,19-Sep,1449.502415
+Forecast High,Manufacturing Cost,2019,19-Oct,1192.311103
+Forecast High,Manufacturing Cost,2019,19-Nov,1459.766291
+Forecast High,Manufacturing Cost,2019,19-Dec,1199.758585
+Forecast High,Manufacturing Cost,2020,20-Jan,1018.151251
+Forecast High,Manufacturing Cost,2020,20-Feb,1794.187773
+Forecast High,Manufacturing Cost,2020,20-Mar,1092.116456
+Forecast High,Manufacturing Cost,2020,20-Apr,1346.127056
+Forecast High,Manufacturing Cost,2020,20-May,1111.929168
+Forecast High,Manufacturing Cost,2020,20-Jun,1875.209636
+Forecast High,Manufacturing Cost,2020,20-Jul,1798.314754
+Forecast High,Manufacturing Cost,2020,20-Aug,1229.676416
+Forecast High,Manufacturing Cost,2020,20-Sep,1890.342445
+Forecast High,Manufacturing Cost,2020,20-Oct,1575.552474
+Forecast High,Manufacturing Cost,2020,20-Nov,1725.15461
+Forecast High,Manufacturing Cost,2020,20-Dec,760.4244082
+Forecast High,Manufacturing Cost,2021,21-Jan,1359.805466
+Forecast High,Manufacturing Cost,2021,21-Feb,1286.416105
+Forecast High,Manufacturing Cost,2021,21-Mar,1369.109039
+Forecast High,Manufacturing Cost,2021,21-Apr,1658.826777
+Forecast High,Manufacturing Cost,2021,21-May,1351.544761
+Forecast High,Manufacturing Cost,2021,21-Jun,1077.338676
+Forecast High,Manufacturing Cost,2021,21-Jul,1596.674355
+Forecast High,Manufacturing Cost,2021,21-Aug,1514.121218
+Forecast High,Manufacturing Cost,2021,21-Sep,1352.065488
+Forecast High,Manufacturing Cost,2021,21-Oct,1140.512869
+Forecast High,Manufacturing Cost,2021,21-Nov,1480.925562
+Forecast High,Manufacturing Cost,2021,21-Dec,1543.482256
+Forecast High,Manufacturing Cost,2022,22-Jan,1651.06729
+Forecast High,Manufacturing Cost,2022,22-Feb,1698.26681
+Forecast High,Manufacturing Cost,2022,22-Mar,1821.831717
+Forecast High,Manufacturing Cost,2022,22-Apr,1246.088176
+Forecast High,Manufacturing Cost,2022,22-May,1619.123995
+Forecast High,Manufacturing Cost,2022,22-Jun,1954.248953
+Forecast High,Manufacturing Cost,2022,22-Jul,1702.9927
+Forecast High,Manufacturing Cost,2022,22-Aug,1646.830644
+Forecast High,Manufacturing Cost,2022,22-Sep,1165.730225
+Forecast High,Manufacturing Cost,2022,22-Oct,1809.315862
+Forecast High,Manufacturing Cost,2022,22-Nov,1502.947861
+Forecast High,Manufacturing Cost,2022,22-Dec,1281.007777
+Forecast High,Manufacturing Cost,2023,23-Jan,1285.844473
+Forecast High,Manufacturing Cost,2023,23-Feb,1527.174913
+Forecast High,Manufacturing Cost,2023,23-Mar,1095.789191
+Forecast High,Manufacturing Cost,2023,23-Apr,1492.773189
+Forecast High,Manufacturing Cost,2023,23-May,1824.059273
+Forecast High,Manufacturing Cost,2023,23-Jun,1656.576839
+Forecast High,Manufacturing Cost,2023,23-Jul,1457.336499
+Forecast High,Manufacturing Cost,2023,23-Aug,1328.853192
+Forecast High,Manufacturing Cost,2023,23-Sep,1245.262372
+Forecast High,Manufacturing Cost,2023,23-Oct,1439.589437
+Forecast High,Manufacturing Cost,2023,23-Nov,1501.538551
+Forecast High,Manufacturing Cost,2023,23-Dec,1145.832327
+Forecast High,Distribution Cost,2019,19-Jan,1763.165042
+Forecast High,Distribution Cost,2019,19-Feb,1286.058181
+Forecast High,Distribution Cost,2019,19-Mar,1760.240133
+Forecast High,Distribution Cost,2019,19-Apr,1299.460057
+Forecast High,Distribution Cost,2019,19-May,1230.418981
+Forecast High,Distribution Cost,2019,19-Jun,1208.690348
+Forecast High,Distribution Cost,2019,19-Jul,1392.9386
+Forecast High,Distribution Cost,2019,19-Aug,1806.244486
+Forecast High,Distribution Cost,2019,19-Sep,1853.634776
+Forecast High,Distribution Cost,2019,19-Oct,1275.247427
+Forecast High,Distribution Cost,2019,19-Nov,1601.813854
+Forecast High,Distribution Cost,2019,19-Dec,1147.296376
+Forecast High,Distribution Cost,2020,20-Jan,1414.360613
+Forecast High,Distribution Cost,2020,20-Feb,1254.720478
+Forecast High,Distribution Cost,2020,20-Mar,1314.799194
+Forecast High,Distribution Cost,2020,20-Apr,1872.944899
+Forecast High,Distribution Cost,2020,20-May,1266.020579
+Forecast High,Distribution Cost,2020,20-Jun,1805.483681
+Forecast High,Distribution Cost,2020,20-Jul,1366.824965
+Forecast High,Distribution Cost,2020,20-Aug,1190.251096
+Forecast High,Distribution Cost,2020,20-Sep,1816.596178
+Forecast High,Distribution Cost,2020,20-Oct,1362.136728
+Forecast High,Distribution Cost,2020,20-Nov,1705.157671
+Forecast High,Distribution Cost,2020,20-Dec,1984.493222
+Forecast High,Distribution Cost,2021,21-Jan,1288.855607
+Forecast High,Distribution Cost,2021,21-Feb,1429.952925
+Forecast High,Distribution Cost,2021,21-Mar,1865.08564
+Forecast High,Distribution Cost,2021,21-Apr,1700.278674
+Forecast High,Distribution Cost,2021,21-May,1317.766654
+Forecast High,Distribution Cost,2021,21-Jun,261.1941208
+Forecast High,Distribution Cost,2021,21-Jul,1403.047287
+Forecast High,Distribution Cost,2021,21-Aug,1054.524094
+Forecast High,Distribution Cost,2021,21-Sep,1048.744657
+Forecast High,Distribution Cost,2021,21-Oct,1037.424298
+Forecast High,Distribution Cost,2021,21-Nov,1875.298614
+Forecast High,Distribution Cost,2021,21-Dec,1833.013243
+Forecast High,Distribution Cost,2022,22-Jan,1020.238783
+Forecast High,Distribution Cost,2022,22-Feb,1432.335116
+Forecast High,Distribution Cost,2022,22-Mar,1482.289191
+Forecast High,Distribution Cost,2022,22-Apr,1177.554584
+Forecast High,Distribution Cost,2022,22-May,1147.564691
+Forecast High,Distribution Cost,2022,22-Jun,1500.100444
+Forecast High,Distribution Cost,2022,22-Jul,1674.884749
+Forecast High,Distribution Cost,2022,22-Aug,1246.085739
+Forecast High,Distribution Cost,2022,22-Sep,1481.764102
+Forecast High,Distribution Cost,2022,22-Oct,1172.252609
+Forecast High,Distribution Cost,2022,22-Nov,1863.60936
+Forecast High,Distribution Cost,2022,22-Dec,1914.827028
+Forecast High,Distribution Cost,2023,23-Jan,1824.907673
+Forecast High,Distribution Cost,2023,23-Feb,1790.466918
+Forecast High,Distribution Cost,2023,23-Mar,1284.497761
+Forecast High,Distribution Cost,2023,23-Apr,1006.618075
+Forecast High,Distribution Cost,2023,23-May,1188.789549
+Forecast High,Distribution Cost,2023,23-Jun,1157.651299
+Forecast High,Distribution Cost,2023,23-Jul,837.2137282
+Forecast High,Distribution Cost,2023,23-Aug,996.6432187
+Forecast High,Distribution Cost,2023,23-Sep,993.9882795
+Forecast High,Distribution Cost,2023,23-Oct,839.1257467
+Forecast High,Distribution Cost,2023,23-Nov,1185.858945
+Forecast High,Distribution Cost,2023,23-Dec,1719.878284
+Forecast High,Market Demand,2019,19-Jan,48.45811479
+Forecast High,Market Demand,2019,19-Feb,52.02260073
+Forecast High,Market Demand,2019,19-Mar,72.68176632
+Forecast High,Market Demand,2019,19-Apr,73.4184543
+Forecast High,Market Demand,2019,19-May,62.60600166
+Forecast High,Market Demand,2019,19-Jun,81.92483146
+Forecast High,Market Demand,2019,19-Jul,88.74710229
+Forecast High,Market Demand,2019,19-Aug,97.0509748
+Forecast High,Market Demand,2019,19-Sep,87.9627343
+Forecast High,Market Demand,2019,19-Oct,85.38770477
+Forecast High,Market Demand,2019,19-Nov,71.88640093
+Forecast High,Market Demand,2019,19-Dec,67.65354509
+Forecast High,Market Demand,2020,20-Jan,69.40020169
+Forecast High,Market Demand,2020,20-Feb,80.51132102
+Forecast High,Market Demand,2020,20-Mar,72.27189514
+Forecast High,Market Demand,2020,20-Apr,69.34881752
+Forecast High,Market Demand,2020,20-May,65.03978998
+Forecast High,Market Demand,2020,20-Jun,64.24220418
+Forecast High,Market Demand,2020,20-Jul,74.42557921
+Forecast High,Market Demand,2020,20-Aug,89.78263175
+Forecast High,Market Demand,2020,20-Sep,79.48324414
+Forecast High,Market Demand,2020,20-Oct,72.28772632
+Forecast High,Market Demand,2020,20-Nov,64.69912092
+Forecast High,Market Demand,2020,20-Dec,87.37175157
+Forecast High,Market Demand,2021,21-Jan,98.32886252
+Forecast High,Market Demand,2021,21-Feb,95.77146819
+Forecast High,Market Demand,2021,21-Mar,84.20624404
+Forecast High,Market Demand,2021,21-Apr,78.71252331
+Forecast High,Market Demand,2021,21-May,72.88790444
+Forecast High,Market Demand,2021,21-Jun,61.25670446
+Forecast High,Market Demand,2021,21-Jul,73.61230467
+Forecast High,Market Demand,2021,21-Aug,78.91375854
+Forecast High,Market Demand,2021,21-Sep,63.60062634
+Forecast High,Market Demand,2021,21-Oct,53.64565904
+Forecast High,Market Demand,2021,21-Nov,50.74854932
+Forecast High,Market Demand,2021,21-Dec,66.65329189
+Forecast High,Market Demand,2022,22-Jan,77.74045945
+Forecast High,Market Demand,2022,22-Feb,62.12561975
+Forecast High,Market Demand,2022,22-Mar,67.92079561
+Forecast High,Market Demand,2022,22-Apr,61.21833943
+Forecast High,Market Demand,2022,22-May,69.92608678
+Forecast High,Market Demand,2022,22-Jun,77.61431282
+Forecast High,Market Demand,2022,22-Jul,71.54532338
+Forecast High,Market Demand,2022,22-Aug,72.30757422
+Forecast High,Market Demand,2022,22-Sep,75.04347593
+Forecast High,Market Demand,2022,22-Oct,79.62901429
+Forecast High,Market Demand,2022,22-Nov,74.30982546
+Forecast High,Market Demand,2022,22-Dec,85.7079513
+Forecast High,Market Demand,2023,23-Jan,94.77871372
+Forecast High,Market Demand,2023,23-Feb,85.0284388
+Forecast High,Market Demand,2023,23-Mar,80.14588169
+Forecast High,Market Demand,2023,23-Apr,86.92263903
+Forecast High,Market Demand,2023,23-May,88.76045419
+Forecast High,Market Demand,2023,23-Jun,82.54046503
+Forecast High,Market Demand,2023,23-Jul,87.60183335
+Forecast High,Market Demand,2023,23-Aug,81.28611754
+Forecast High,Market Demand,2023,23-Sep,87.35881964
+Forecast High,Market Demand,2023,23-Oct,85.34439728
+Forecast High,Market Demand,2023,23-Nov,86.94536073
+Forecast High,Market Demand,2023,23-Dec,84.66937052
+Forecast High,Sales,2019,19-Jan,3027.167271
+Forecast High,Sales,2019,19-Feb,4674.782089
+Forecast High,Sales,2019,19-Mar,4317.474062
+Forecast High,Sales,2019,19-Apr,4861.9185
+Forecast High,Sales,2019,19-May,3658.692731
+Forecast High,Sales,2019,19-Jun,3206.981711
+Forecast High,Sales,2019,19-Jul,3554.98384
+Forecast High,Sales,2019,19-Aug,3175.523897
+Forecast High,Sales,2019,19-Sep,3781.797341
+Forecast High,Sales,2019,19-Oct,3127.961302
+Forecast High,Sales,2019,19-Nov,4063.158413
+Forecast High,Sales,2019,19-Dec,3301.816946
+Forecast High,Sales,2020,20-Jan,3166.811232
+Forecast High,Sales,2020,20-Feb,2718.520788
+Forecast High,Sales,2020,20-Mar,2194.491376
+Forecast High,Sales,2020,20-Apr,2295.493763
+Forecast High,Sales,2020,20-May,2924.076955
+Forecast High,Sales,2020,20-Jun,2900.884688
+Forecast High,Sales,2020,20-Jul,3278.912811
+Forecast High,Sales,2020,20-Aug,3777.447764
+Forecast High,Sales,2020,20-Sep,3844.165124
+Forecast High,Sales,2020,20-Oct,4289.150336
+Forecast High,Sales,2020,20-Nov,3162.018915
+Forecast High,Sales,2020,20-Dec,3558.063084
+Forecast High,Sales,2021,21-Jan,4015.580159
+Forecast High,Sales,2021,21-Feb,4888.107782
+Forecast High,Sales,2021,21-Mar,4464.833115
+Forecast High,Sales,2021,21-Apr,5305.833834
+Forecast High,Sales,2021,21-May,4571.143773
+Forecast High,Sales,2021,21-Jun,4519.019472
+Forecast High,Sales,2021,21-Jul,4002.998945
+Forecast High,Sales,2021,21-Aug,5394.80981
+Forecast High,Sales,2021,21-Sep,5472.740653
+Forecast High,Sales,2021,21-Oct,4559.882233
+Forecast High,Sales,2021,21-Nov,3330.064237
+Forecast High,Sales,2021,21-Dec,5323.457799
+Forecast High,Sales,2022,22-Jan,4982.755121
+Forecast High,Sales,2022,22-Feb,4068.894579
+Forecast High,Sales,2022,22-Mar,4215.132895
+Forecast High,Sales,2022,22-Apr,5386.55789
+Forecast High,Sales,2022,22-May,4603.052469
+Forecast High,Sales,2022,22-Jun,4569.580046
+Forecast High,Sales,2022,22-Jul,4077.899194
+Forecast High,Sales,2022,22-Aug,4513.799676
+Forecast High,Sales,2022,22-Sep,4550.963584
+Forecast High,Sales,2022,22-Oct,4893.956815
+Forecast High,Sales,2022,22-Nov,4835.679253
+Forecast High,Sales,2022,22-Dec,4706.959411
+Forecast High,Sales,2023,23-Jan,4937.250643
+Forecast High,Sales,2023,23-Feb,5421.306608
+Forecast High,Sales,2023,23-Mar,5858.393856
+Forecast High,Sales,2023,23-Apr,5321.56408
+Forecast High,Sales,2023,23-May,5218.859099
+Forecast High,Sales,2023,23-Jun,5471.787842
+Forecast High,Sales,2023,23-Jul,5222.25372
+Forecast High,Sales,2023,23-Aug,4577.185436
+Forecast High,Sales,2023,23-Sep,5622.037329
+Forecast High,Sales,2023,23-Oct,5604.063414
+Forecast High,Sales,2023,23-Nov,5929.79596
+Forecast High,Sales,2023,23-Dec,6025.240134

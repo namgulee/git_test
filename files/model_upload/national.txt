@@ -1,0 +1,366 @@
+Date (Year),Date (Quarter),Date (Month),Product Line (Parent),Product Manufacturer (Level),Product Name (Child),Product Code (Alias),State (Parent),City (Child),Retailer (Leaf),Data (Numeric)
+2019,Q1 2019,Jan 2019,Dishwashers,Acme,AcmeWash MR,D83022,CA,San Diego,Builders,3900
+2019,Q1 2019,Jan 2019,Dishwashers,AutoKitchen,AutoWash GL,D80003,CA,San Diego,Furniture,8125
+2019,Q1 2019,Jan 2019,Stoves,Gen A Ltd,GenAStove XL,S98978,CA,San Diego,Department,11180
+2019,Q1 2019,Jan 2019,Microwaves,AutoKitchen,AutoWave S,M60292,CA,San Diego,Furniture,5590
+2019,Q1 2019,Jan 2019,Stoves,USAppliance,HotBox Pro,S77666,NY,New York,Rental,7425
+2019,Q1 2019,Jan 2019,Microwaves,USAppliance,WaveCook Elite,M80399,NY,New York,Home,4582.5
+2019,Q1 2019,Jan 2019,Dishwashers,KitchenWare,KWash Mk1,D39930,CA,San Jose,Department,12800
+2019,Q1 2019,Jan 2019,Microwaves,KitchenWare,KWave Mk2,M21030,CA,San Jose,Builders,15900
+2019,Q1 2019,Jan 2019,Stoves,KitchenWare,StoveTop Mk2,S98001,CA,San Jose,Department,4720
+2019,Q1 2019,Jan 2019,Microwaves,AutoKitchen,AutoWave GL,M60293,NY,New York,Home,3105
+2019,Q1 2019,Jan 2019,Stoves,USAppliance,HotBox Master,S77667,CA,San Diego,Furniture,15200
+2019,Q1 2019,Jan 2019,Microwaves,USAppliance,WaveCook Master,M80401,CA,San Diego,Department,4792.5
+2019,Q1 2019,Jan 2019,Dishwashers,Acme,AcmeWash,D83020,MA,Boston,Builders,8320
+2019,Q1 2019,Jan 2019,Stoves,Gen A Ltd,GenAStove,S98977,MA,Boston,Department,6630
+2019,Q1 2019,Jan 2019,Stoves,KitchenWare,StoveTop Mk1,S98000,CA,San Diego,Department,6615
+2019,Q1 2019,Jan 2019,Stoves,Acme,AcmeCook MR,S40025,CA,San Diego,Department,14820
+2019,Q1 2019,Jan 2019,Dishwashers,Acme,AcmeWash MR,D83022,CA,San Diego,Furniture,6615
+2019,Q1 2019,Jan 2019,Dishwashers,KitchenWare,KWash Mk2,D39931,CA,San Jose,Department,11050
+2019,Q1 2019,Feb 2019,Microwaves,AutoKitchen,AutoWave S,M60292,NY,New York,Home,4192.5
+2019,Q1 2019,Feb 2019,Microwaves,Gen A Ltd,GenAWave,M10002,MA,Boston,Department,6750
+2019,Q1 2019,Feb 2019,Stoves,USAppliance,HotBox Elite,S77665,CA,San Jose,Builders,10400
+2019,Q1 2019,Feb 2019,Stoves,Acme,AcmeCook HE,S40024,CA,San Diego,Department,6075
+2019,Q1 2019,Feb 2019,Dishwashers,Acme,AcmeWash HE,D83021,CA,San Diego,Home,18999
+2019,Q1 2019,Feb 2019,Stoves,KitchenWare,StoveTop Mk3,S98002,NY,New York,Department,4600
+2019,Q1 2019,Feb 2019,Dishwashers,USAppliance,DripDry Pro,D40002,CA,San Jose,Home,6750
+2019,Q1 2019,Feb 2019,Stoves,USAppliance,HotBox Pro,S77666,CA,San Jose,Department,4885
+2019,Q1 2019,Feb 2019,Microwaves,USAppliance,WaveCook Elite,M80399,CA,San Jose,Builders,6110
+2019,Q1 2019,Feb 2019,Dishwashers,Gen A Ltd,GenADish XL,D40060,CA,San Diego,Rental,10500
+2019,Q1 2019,Feb 2019,Dishwashers,KitchenWare,KWash Mk2,D39931,NY,New York,Rental,11050
+2019,Q1 2019,Feb 2019,Microwaves,KitchenWare,KWave Mk2,M21030,NY,New York,Home,4860
+2019,Q1 2019,Mar 2019,Microwaves,AutoKitchen,AutoWave GL,M60293,MA,Boston,Builders,3105
+2019,Q1 2019,Mar 2019,Microwaves,AutoKitchen,AutoWave S,M60292,CA,San Diego,Department,3420
+2019,Q1 2019,Mar 2019,Dishwashers,USAppliance,DripDry Pro,D40002,NY,New York,Department,6750
+2019,Q1 2019,Mar 2019,Microwaves,AutoKitchen,AutoWave GL,M60293,NY,New York,Furniture,2610
+2019,Q1 2019,Mar 2019,Stoves,KitchenWare,StoveTop Mk2,S98001,CA,San Jose,Department,7425
+2019,Q1 2019,Mar 2019,Microwaves,USAppliance,WaveCook Master,M80401,CA,San Diego,Department,9230
+2019,Q1 2019,Mar 2019,Stoves,USAppliance,HotBox Pro,S77666,CA,San Jose,Rental,18700
+2019,Q1 2019,Mar 2019,Dishwashers,KitchenWare,KWash Mk1,D39930,CA,San Diego,Builders,7800
+2019,Q1 2019,Mar 2019,Microwaves,KitchenWare,KWave Mk1,M21029,CA,San Diego,Department,6500
+2019,Q1 2019,Mar 2019,Stoves,Acme,AcmeCook MR,S40025,CA,San Diego,Furniture,22010
+2019,Q1 2019,Mar 2019,Dishwashers,AutoKitchen,AutoWash GL,D80003,NY,New York,Department,5720
+2019,Q1 2019,Mar 2019,Microwaves,KitchenWare,KWave Mk3 ,M21031,CA,San Jose,Department,11440
+2019,Q2 2019,Apr 2019,Stoves,AutoKitchen,AutoStove CT,S30499,MA,Boston,Department,5535
+2019,Q2 2019,Apr 2019,Microwaves,AutoKitchen,AutoWave S,M60292,MA,Boston,Furniture,2902.5
+2019,Q2 2019,Apr 2019,Dishwashers,USAppliance,DripDry Elite,D40000,CA,San Jose,Department,9620
+2019,Q2 2019,Apr 2019,Stoves,Acme,AcmeCook,S40023,CA,San Diego,Builders,11250
+2019,Q2 2019,Apr 2019,Dishwashers,KitchenWare,KWash Mk1,D39930,NY,New York,Department,9750
+2019,Q2 2019,Apr 2019,Stoves,KitchenWare,StoveTop Mk1,S98000,NY,New York,Department,12740
+2019,Q2 2019,Apr 2019,Stoves,Gen A Ltd,GenAStove,S98977,MA,Boston,Home,11050
+2019,Q2 2019,Apr 2019,Stoves,Acme,AcmeCook MR,S40025,CA,San Diego,Department,35625
+2019,Q2 2019,Apr 2019,Dishwashers,Acme,AcmeWash MR,D83022,CA,San Diego,Furniture,15925
+2019,Q2 2019,Apr 2019,Microwaves,Gen A Ltd,GenAWave,M10002,MA,Boston,Department,4680
+2019,Q2 2019,Apr 2019,Microwaves,Acme,AcmeWave MR,M30003,CA,San Diego,Home,2900
+2019,Q2 2019,Apr 2019,Dishwashers,AutoKitchen,AutoWash GL,D80003,CA,San Diego,Department,2970
+2019,Q2 2019,Apr 2019,Microwaves,AutoKitchen,AutoWave S,M60292,CA,San Diego,Builders,5590
+2019,Q2 2019,May 2019,Dishwashers,USAppliance,DripDry Pro,D40002,NY,New York,Rental,6750
+2019,Q2 2019,May 2019,Stoves,USAppliance,HotBox Pro,S77666,NY,New York,Department,7425
+2019,Q2 2019,May 2019,Microwaves,USAppliance,WaveCook Elite,M80399,NY,New York,Department,6110
+2019,Q2 2019,May 2019,Dishwashers,AutoKitchen,AutoWash S,D80002,MA,Boston,Furniture,3780
+2019,Q2 2019,May 2019,Microwaves,AutoKitchen,AutoWave GL,M60293,MA,Boston,Department,8700
+2019,Q2 2019,May 2019,Dishwashers,KitchenWare,KWash Mk2,D39931,CA,San Jose,Department,4590
+2019,Q2 2019,May 2019,Dishwashers,Gen A Ltd,GenADish,D40059,MA,Boston,Department,6370
+2019,Q2 2019,May 2019,Dishwashers,KitchenWare,KWash Mk1,D39930,CA,San Diego,Department,4050
+2019,Q2 2019,May 2019,Microwaves,USAppliance,WaveCook Elite,M80399,CA,San Jose,Department,6110
+2019,Q2 2019,May 2019,Microwaves,Acme,AcmeWave,M30001,CA,San Diego,Department,3640
+2019,Q2 2019,May 2019,Microwaves,AutoKitchen,AutoWave GL,M60293,CA,San Diego,Furniture,3105
+2019,Q2 2019,May 2019,Microwaves,USAppliance,WaveCook Elite,M80399,CA,San Diego,Department,6110
+2019,Q2 2019,Jun 2019,Stoves,Acme,AcmeCook,S40023,CA,San Diego,Department,9750
+2019,Q2 2019,Jun 2019,Stoves,Gen A Ltd,GenAStove,S98977,CA,San Diego,Builders,11050
+2019,Q2 2019,Jun 2019,Dishwashers,KitchenWare,KWash Mk3,D39932,CA,San Jose,Department,13000
+2019,Q2 2019,Jun 2019,Microwaves,KitchenWare,KWave Mk3 ,M21031,NY,New York,Furniture,5940
+2019,Q2 2019,Jun 2019,Stoves,KitchenWare,StoveTop Mk1,S98000,CA,San Diego,Builders,3600
+2019,Q2 2019,Jun 2019,Stoves,KitchenWare,StoveTop Mk3,S98002,CA,San Jose,Department,14300
+2019,Q2 2019,Jun 2019,Stoves,AutoKitchen,AutoStove CT,S30499,CA,San Diego,Home,5535
+2019,Q2 2019,Jun 2019,Stoves,AutoKitchen,AutoStove HT,S30500,CA,San Diego,Rental,12090
+2019,Q2 2019,Jun 2019,Dishwashers,Gen A Ltd,GenADish XL,D40060,CA,San Diego,Department,10562.5
+2019,Q2 2019,Jun 2019,Dishwashers,AutoKitchen,AutoWash GL,D80003,NY,New York,Home,1850
+2019,Q2 2019,Jun 2019,Dishwashers,Gen A Ltd,GenADish XR,D40061,CA,San Diego,Department,16250
+2019,Q2 2019,Jun 2019,Dishwashers,KitchenWare,KWash Mk1,D39930,CA,San Diego,Rental,2100
+2019,Q3 2019,Jul 2019,Stoves,Acme,AcmeCook,S40023,CA,San Diego,Department,9750
+2019,Q3 2019,Jul 2019,Microwaves,Acme,AcmeWave,M30001,CA,San Diego,Furniture,1199
+2019,Q3 2019,Jul 2019,Dishwashers,USAppliance,DripDry Elite,D40000,CA,San Jose,Department,23125
+2019,Q3 2019,Jul 2019,Dishwashers,USAppliance,DripDry Master,D40001,CA,San Jose,Department,14200
+2019,Q3 2019,Jul 2019,Stoves,Gen A Ltd,GenAStove,S98977,MA,Boston,Builders,8840
+2019,Q3 2019,Jul 2019,Stoves,KitchenWare,StoveTop Mk1,S98000,NY,New York,Department,3430
+2019,Q3 2019,Jul 2019,Microwaves,Acme,AcmeWave HE,M30002,CA,San Diego,Department,6480
+2019,Q3 2019,Jul 2019,Stoves,Gen A Ltd,GenAStove XR,S98979,MA,Boston,Department,21000
+2019,Q3 2019,Jul 2019,Stoves,KitchenWare,StoveTop Mk3,S98002,NY,New York,Department,14300
+2019,Q3 2019,Jul 2019,Microwaves,Acme,AcmeWave MR,M30003,CA,San Diego,Department,8840
+2019,Q3 2019,Jul 2019,Stoves,Gen A Ltd,GenAStove XL,S98978,MA,Boston,Department,8385
+2019,Q3 2019,Jul 2019,Stoves,KitchenWare,StoveTop Mk1,S98000,CA,San Jose,Builders,6615
+2019,Q3 2019,Aug 2019,Stoves,AutoKitchen,AutoStove CT,S30499,CA,San Diego,Builders,3420
+2019,Q3 2019,Aug 2019,Stoves,AutoKitchen,AutoStove HT,S30500,MA,Boston,Home,6277.5
+2019,Q3 2019,Aug 2019,Dishwashers,KitchenWare,KWash Mk2,D39931,CA,San Jose,Home,6630
+2019,Q3 2019,Aug 2019,Microwaves,AutoKitchen,AutoWave GL,M60293,NY,New York,Department,8625
+2019,Q3 2019,Aug 2019,Microwaves,KitchenWare,KWave Mk2,M21030,CA,San Jose,Builders,9360
+2019,Q3 2019,Aug 2019,Microwaves,USAppliance,WaveCook Master,M80401,CA,San Diego,Department,11537.5
+2019,Q3 2019,Aug 2019,Dishwashers,Gen A Ltd,GenADish,D40059,MA,Boston,Department,9525
+2019,Q3 2019,Aug 2019,Stoves,Gen A Ltd,GenAStove,S98977,MA,Boston,Furniture,6630
+2019,Q3 2019,Aug 2019,Microwaves,Gen A Ltd,GenAWave,M10002,MA,Boston,Department,2430
+2019,Q3 2019,Aug 2019,Dishwashers,AutoKitchen,AutoWash LE,D80004,NY,New York,Department,10400
+2019,Q3 2019,Aug 2019,Dishwashers,USAppliance,DripDry Pro,D40002,CA,San Jose,Department,6750
+2019,Q3 2019,Aug 2019,Stoves,USAppliance,HotBox Pro,S77666,CA,San Jose,Furniture,3850
+2019,Q3 2019,Aug 2019,Stoves,Acme,AcmeCook,S40023,MA,Boston,Department,4050
+2019,Q3 2019,Aug 2019,Dishwashers,Acme,AcmeWash,D83020,MA,Boston,Builders,2240
+2019,Q3 2019,Aug 2019,Stoves,KitchenWare,StoveTop Mk3,S98002,CA,San Jose,Department,14300
+2019,Q3 2019,Aug 2019,Stoves,AutoKitchen,AutoStove CT,S30499,MA,Boston,Home,5535
+2019,Q3 2019,Aug 2019,Dishwashers,AutoKitchen,AutoWash GL,D80003,NY,New York,Rental,1850
+2019,Q3 2019,Aug 2019,Stoves,USAppliance,HotBox Elite,S77665,CA,San Jose,Department,10400
+2019,Q3 2019,Sep 2019,Microwaves,Acme,AcmeWave MR,M30003,CA,San Diego,Builders,21250
+2019,Q3 2019,Sep 2019,Microwaves,AutoKitchen,AutoWave S,M60292,CA,San Jose,Department,2902.5
+2019,Q3 2019,Sep 2019,Microwaves,Gen A Ltd,GenAWave,M10002,MA,Boston,Department,2430
+2019,Q3 2019,Sep 2019,Microwaves,AutoKitchen,AutoWave GL,M60293,MA,Boston,Department,8625
+2019,Q3 2019,Sep 2019,Dishwashers,USAppliance,DripDry Pro,D40002,NY,New York,Builders,13000
+2019,Q3 2019,Sep 2019,Stoves,KitchenWare,StoveTop Mk1,S98000,CA,San Jose,Department,15925
+2019,Q3 2019,Sep 2019,Stoves,AutoKitchen,AutoStove HT,S30500,NY,New York,Department,35000
+2019,Q3 2019,Sep 2019,Dishwashers,Gen A Ltd,GenADish,D40059,MA,Boston,Department,3307.5
+2019,Q3 2019,Sep 2019,Microwaves,Gen A Ltd,GenAWave,M10002,MA,Boston,Department,2430
+2019,Q3 2019,Sep 2019,Dishwashers,USAppliance,DripDry Pro,D40002,CA,San Jose,Department,13000
+2019,Q3 2019,Sep 2019,Stoves,USAppliance,HotBox Pro,S77666,CA,San Jose,Rental,3850
+2019,Q3 2019,Sep 2019,Microwaves,USAppliance,WaveCook Elite,M80399,CA,San Jose,Department,3172.5
+2019,Q4 2019,Oct 2019,Stoves,Acme,AcmeCook,S40023,MA,Boston,Builders,2255
+2019,Q4 2019,Oct 2019,Microwaves,AutoKitchen,AutoWave LE,M60294,NY,New York,Builders,5670
+2019,Q4 2019,Oct 2019,Dishwashers,KitchenWare,KWash Mk1,D39930,CA,San Diego,Department,4100
+2019,Q4 2019,Oct 2019,Microwaves,Acme,AcmeWave,M30001,MA,Boston,Department,1890
+2019,Q4 2019,Oct 2019,Microwaves,Acme,AcmeWave MR,M30003,CA,San Diego,Furniture,2400
+2019,Q4 2019,Oct 2019,Stoves,KitchenWare,StoveTop Mk3,S98002,CA,San Jose,Department,8580
+2019,Q4 2019,Oct 2019,Microwaves,AutoKitchen,AutoWave S,M60292,MA,Boston,Department,2902.5
+2019,Q4 2019,Oct 2019,Dishwashers,USAppliance,DripDry Elite,D40000,CA,San Jose,Department,4995
+2019,Q4 2019,Oct 2019,Dishwashers,USAppliance,DripDry Pro,D40002,MA,Boston,Furniture,1400
+2019,Q4 2019,Oct 2019,Stoves,Acme,AcmeCook MR,S40025,CA,San Diego,Department,7695
+2019,Q4 2019,Oct 2019,Stoves,Gen A Ltd,GenAStove XR,S98979,MA,Boston,Builders,6048
+2019,Q4 2019,Oct 2019,Stoves,USAppliance,HotBox Master,S77667,CA,San Jose,Department,6075
+2019,Q4 2019,Nov 2019,Dishwashers,Acme,AcmeWash MR,D83022,CA,San Diego,Department,12740
+2019,Q4 2019,Nov 2019,Microwaves,Acme,AcmeWave MR,M30003,CA,San Diego,Department,4590
+2019,Q4 2019,Nov 2019,Dishwashers,Gen A Ltd,GenADish XL,D40060,MA,Boston,Department,4387.5
+2019,Q4 2019,Nov 2019,Stoves,AutoKitchen,AutoStove CT,S30499,CA,San Diego,Furniture,3200
+2019,Q4 2019,Nov 2019,Stoves,Gen A Ltd,GenAStove XL,S98978,MA,Boston,Department,5805
+2019,Q4 2019,Nov 2019,Stoves,Gen A Ltd,GenAStove XL,S98978,CA,San Diego,Department,5805
+2019,Q4 2019,Nov 2019,Dishwashers,AutoKitchen,AutoWash S,D80002,MA,Boston,Home,1960
+2019,Q4 2019,Nov 2019,Stoves,USAppliance,HotBox Pro,S77666,NY,New York,Home,1540
+2019,Q4 2019,Nov 2019,Microwaves,USAppliance,WaveCook Elite,M80399,NY,New York,Builders,1800
+2019,Q4 2019,Nov 2019,Stoves,AutoKitchen,AutoStove HT,S30500,NY,New York,Department,6277.5
+2019,Q4 2019,Nov 2019,Dishwashers,Gen A Ltd,GenADish,D40059,MA,Boston,Department,10718.75
+2019,Q4 2019,Nov 2019,Dishwashers,KitchenWare,KWash Mk2,D39931,CA,San Jose,Builders,11050
+2019,Q4 2019,Dec 2019,Dishwashers,USAppliance,DripDry Pro,D40002,CA,San Jose,Department,13000
+2019,Q4 2019,Dec 2019,Microwaves,Gen A Ltd,GenAWave,M10002,MA,Boston,Department,2430
+2019,Q4 2019,Dec 2019,Microwaves,USAppliance,WaveCook Elite,M80399,CA,San Jose,Home,6110
+2019,Q4 2019,Dec 2019,Dishwashers,Acme,AcmeWash,D83020,MA,Boston,Builders,10400
+2019,Q4 2019,Dec 2019,Stoves,AutoKitchen,AutoStove QR,S30501,NY,New York,Department,6750
+2019,Q4 2019,Dec 2019,Dishwashers,KitchenWare,KWash Mk3,D39932,CA,San Jose,Rental,10400
+2019,Q4 2019,Dec 2019,Microwaves,Acme,AcmeWave,M30001,CA,San Diego,Department,1890
+2019,Q4 2019,Dec 2019,Microwaves,KitchenWare,KWave Mk1,M21029,NY,New York,Builders,2850
+2019,Q4 2019,Dec 2019,Stoves,KitchenWare,StoveTop Mk3,S98002,CA,San Jose,Department,7425
+2019,Q4 2019,Dec 2019,Stoves,AutoKitchen,AutoStove CT,S30499,CA,San Diego,Home,3500
+2019,Q4 2019,Dec 2019,Stoves,USAppliance,HotBox Master,S77667,CA,San Diego,Department,6075
+2019,Q4 2019,Dec 2019,Stoves,KitchenWare,StoveTop Mk2,S98001,CA,San Jose,Rental,10725
+2020,Q1 2020,Jan 2020,Stoves,AutoKitchen,AutoStove HT,S30500,NY,New York,Builders,5022
+2020,Q1 2020,Jan 2020,Dishwashers,USAppliance,DripDry Pro,D40002,CA,San Jose,Department,6750
+2020,Q1 2020,Jan 2020,Microwaves,Gen A Ltd,GenAWave,M10002,MA,Boston,Furniture,1008
+2020,Q1 2020,Jan 2020,Dishwashers,AutoKitchen,AutoWash LE,D80004,NY,New York,Department,4320
+2020,Q1 2020,Jan 2020,Stoves,USAppliance,HotBox Pro,S77666,CA,San Jose,Department,7425
+2020,Q1 2020,Jan 2020,Microwaves,KitchenWare,KWave Mk1,M21029,CA,San Diego,Home,1485
+2020,Q1 2020,Jan 2020,Microwaves,Acme,AcmeWave HE,M30002,CA,San Diego,Department,6480
+2020,Q1 2020,Jan 2020,Microwaves,AutoKitchen,AutoWave LE,M60294,NY,New York,Builders,13104
+2020,Q1 2020,Jan 2020,Microwaves,Gen A Ltd,GenAWave XL,M10003,CA,San Diego,Department,3645
+2020,Q1 2020,Jan 2020,Stoves,Acme,AcmeCook HE,S40024,CA,San Diego,Home,8775
+2020,Q1 2020,Jan 2020,Microwaves,AutoKitchen,AutoWave S,M60292,CA,San Diego,Department,2902.5
+2020,Q1 2020,Jan 2020,Microwaves,USAppliance,WaveCook Master,M80401,CA,San Diego,Furniture,4792.5
+2020,Q1 2020,Jan 2020,Stoves,Acme,AcmeCook MR,S40025,CA,San Diego,Builders,3300
+2020,Q1 2020,Jan 2020,Stoves,Gen A Ltd,GenAStove XL,S98978,CA,San Diego,Department,5805
+2020,Q1 2020,Jan 2020,Microwaves,KitchenWare,KWave Mk3 ,M21031,CA,San Jose,Furniture,1200
+2020,Q1 2020,Jan 2020,Dishwashers,Acme,AcmeWash MR,D83022,CA,San Diego,Department,6615
+2020,Q1 2020,Jan 2020,Stoves,USAppliance,HotBox Elite,S77665,CA,San Diego,Furniture,1120
+2020,Q1 2020,Jan 2020,Stoves,USAppliance,HotBox Pro,S77666,CA,San Diego,Home,3850
+2020,Q1 2020,Feb 2020,Dishwashers,Acme,AcmeWash,D83020,CA,San Diego,Department,2240
+2020,Q1 2020,Feb 2020,Dishwashers,Acme,AcmeWash MR,D83022,CA,San Diego,Department,6615
+2020,Q1 2020,Feb 2020,Dishwashers,KitchenWare,KWash Mk2,D39931,CA,San Diego,Furniture,2380
+2020,Q1 2020,Feb 2020,Dishwashers,AutoKitchen,AutoWash LE,D80004,CA,San Diego,Department,4320
+2020,Q1 2020,Feb 2020,Dishwashers,USAppliance,DripDry Pro,D40002,CA,San Diego,Department,6750
+2020,Q1 2020,Feb 2020,Dishwashers,KitchenWare,KWash Mk3,D39932,CA,San Jose,Builders,10920
+2020,Q1 2020,Feb 2020,Stoves,AutoKitchen,AutoStove CT,S30499,MA,Boston,Builders,5535
+2020,Q1 2020,Feb 2020,Microwaves,KitchenWare,KWave Mk3 ,M21031,CA,San Jose,Department,11440
+2020,Q1 2020,Feb 2020,Microwaves,KitchenWare,KWave Mk3 ,M21031,CA,San Jose,Department,5940
+2020,Q1 2020,Feb 2020,Microwaves,Gen A Ltd,GenAWave,M10002,MA,Boston,Builders,1008
+2020,Q1 2020,Feb 2020,Dishwashers,KitchenWare,KWash Mk3,D39932,NY,New York,Department,2800
+2020,Q1 2020,Feb 2020,Microwaves,KitchenWare,KWave Mk3 ,M21031,NY,New York,Department,5940
+2020,Q1 2020,Mar 2020,Dishwashers,Acme,AcmeWash MR,D83022,CA,San Diego,Furniture,1372
+2020,Q1 2020,Mar 2020,Microwaves,Gen A Ltd,GenAWave XL,M10003,MA,Boston,Department,3645
+2020,Q1 2020,Mar 2020,Microwaves,USAppliance,WaveCook Elite,M80399,CA,San Jose,Department,3200
+2020,Q1 2020,Mar 2020,Dishwashers,USAppliance,DripDry Master,D40001,CA,San Jose,Furniture,5700
+2020,Q1 2020,Mar 2020,Stoves,Gen A Ltd,GenAStove XL,S98978,CA,San Diego,Department,5805
+2020,Q1 2020,Mar 2020,Dishwashers,KitchenWare,KWash Mk2,D39931,NY,New York,Department,4590
+2020,Q1 2020,Mar 2020,Dishwashers,AutoKitchen,AutoWash GL,D80003,CA,San Diego,Builders,1540
+2020,Q1 2020,Mar 2020,Dishwashers,AutoKitchen,AutoWash S,D80002,MA,Boston,Department,3780
+2020,Q1 2020,Mar 2020,Microwaves,AutoKitchen,AutoWave S,M60292,CA,San Diego,Department,5590
+2020,Q1 2020,Mar 2020,Stoves,USAppliance,HotBox Master,S77667,CA,San Diego,Home,14625
+2020,Q1 2020,Mar 2020,Microwaves,KitchenWare,KWave Mk1,M21029,CA,San Diego,Department,1782
+2020,Q1 2020,Mar 2020,Stoves,KitchenWare,StoveTop Mk1,S98000,CA,San Diego,Furniture,1372
+2020,Q2 2020,Apr 2020,Stoves,Acme,AcmeCook MR,S40025,CA,San Diego,Department,11115
+2020,Q2 2020,Apr 2020,Stoves,AutoKitchen,AutoStove QR,S30501,NY,New York,Builders,6750
+2020,Q2 2020,Apr 2020,Microwaves,AutoKitchen,AutoWave LE,M60294,NY,New York,Department,8190
+2020,Q2 2020,Apr 2020,Microwaves,AutoKitchen,AutoWave S,M60292,MA,Boston,Home,1505
+2020,Q2 2020,Apr 2020,Stoves,KitchenWare,StoveTop Mk1,S98000,NY,New York,Department,12740
+2020,Q2 2020,Apr 2020,Microwaves,USAppliance,WaveCook Master,M80401,CA,San Jose,Department,13312.5
+2020,Q2 2020,Apr 2020,Stoves,AutoKitchen,AutoStove HT,S30500,MA,Boston,Home,6277.5
+2020,Q2 2020,Apr 2020,Dishwashers,USAppliance,DripDry Master,D40001,CA,San Diego,Department,10920
+2020,Q2 2020,Apr 2020,Microwaves,KitchenWare,KWave Mk1,M21029,CA,San Diego,Department,2970
+2020,Q2 2020,Apr 2020,Microwaves,Acme,AcmeWave,M30001,CA,San Diego,Department,465
+2020,Q2 2020,Apr 2020,Dishwashers,AutoKitchen,AutoWash LE,D80004,NY,New York,Furniture,2240
+2020,Q2 2020,Apr 2020,Microwaves,KitchenWare,KWave Mk3 ,M21031,CA,San Jose,Department,5940
+2020,Q2 2020,Apr 2020,Dishwashers,Gen A Ltd,GenADish,D40059,MA,Boston,Department,4777.5
+2020,Q2 2020,Apr 2020,Microwaves,KitchenWare,KWave Mk1,M21029,NY,New York,Department,5720
+2020,Q2 2020,Apr 2020,Stoves,KitchenWare,StoveTop Mk1,S98000,NY,New York,Furniture,1410
+2020,Q2 2020,Apr 2020,Microwaves,Acme,AcmeWave HE,M30002,CA,San Diego,Department,6480
+2020,Q2 2020,Apr 2020,Microwaves,Gen A Ltd,GenAWave,M10002,MA,Boston,Department,2430
+2020,Q2 2020,Apr 2020,Microwaves,USAppliance,WaveCook Master,M80401,CA,San Jose,Builders,20000
+2020,Q2 2020,Apr 2020,Stoves,Acme,AcmeCook MR,S40025,CA,San Diego,Department,7695
+2020,Q2 2020,Apr 2020,Dishwashers,Acme,AcmeWash MR,D83022,CA,San Diego,Rental,3430
+2020,Q2 2020,Apr 2020,Microwaves,Acme,AcmeWave MR,M30003,CA,San Diego,Department,4590
+2020,Q2 2020,Apr 2020,Stoves,AutoKitchen,AutoStove HT,S30500,MA,Boston,Department,6277.5
+2020,Q2 2020,Apr 2020,Microwaves,Gen A Ltd,GenAWave XL,M10003,CA,San Diego,Furniture,1600
+2020,Q2 2020,Apr 2020,Microwaves,KitchenWare,KWave Mk2,M21030,CA,San Jose,Department,4860
+2020,Q2 2020,Apr 2020,Microwaves,Acme,AcmeWave,M30001,MA,Boston,Furniture,980
+2020,Q2 2020,Apr 2020,Microwaves,AutoKitchen,AutoWave S,M60292,NY,New York,Department,4192.5
+2020,Q2 2020,Apr 2020,Stoves,Gen A Ltd,GenAStove,S98977,MA,Boston,Department,4590
+2020,Q2 2020,Apr 2020,Stoves,USAppliance,HotBox Master,S77667,CA,San Diego,Builders,22500
+2020,Q2 2020,Apr 2020,Dishwashers,Acme,AcmeWash,D83020,MA,Boston,Builders,15500
+2020,Q2 2020,Apr 2020,Stoves,AutoKitchen,AutoStove QR,S30501,NY,New York,Department,6750
+2020,Q2 2020,Apr 2020,Dishwashers,AutoKitchen,AutoWash S,D80002,NY,New York,Department,3780
+2020,Q2 2020,Apr 2020,Stoves,Gen A Ltd,GenAStove XL,S98978,CA,San Diego,Home,3010
+2020,Q2 2020,Apr 2020,Stoves,USAppliance,HotBox Elite,S77665,CA,San Jose,Home,2800
+2020,Q2 2020,Apr 2020,Microwaves,KitchenWare,KWave Mk2,M21030,CA,San Jose,Department,4860
+2020,Q2 2020,Apr 2020,Stoves,KitchenWare,StoveTop Mk1,S98000,CA,San Jose,Department,6615
+2020,Q2 2020,Apr 2020,Microwaves,Acme,AcmeWave MR,M30003,CA,San Diego,Department,4590
+2020,Q2 2020,Apr 2020,Microwaves,AutoKitchen,AutoWave LE,M60294,CA,San Diego,Department,5670
+2020,Q2 2020,Apr 2020,Microwaves,KitchenWare,KWave Mk3 ,M21031,CA,San Jose,Furniture,3080
+2020,Q2 2020,Apr 2020,Microwaves,USAppliance,WaveCook Pro,M80400,CA,San Diego,Department,6682.5
+2020,Q2 2020,Apr 2020,Stoves,AutoKitchen,AutoStove CT,S30499,NY,New York,Home,3321
+2020,Q2 2020,Apr 2020,Dishwashers,USAppliance,DripDry Elite,D40000,CA,San Diego,Department,4995
+2020,Q2 2020,Apr 2020,Dishwashers,Gen A Ltd,GenADish,D40059,CA,San Diego,Department,4777.5
+2020,Q2 2020,Apr 2020,Microwaves,USAppliance,WaveCook Pro,M80400,CA,San Jose,Rental,3465
+2020,Q2 2020,Apr 2020,Dishwashers,Acme,AcmeWash,D83020,CA,San Diego,Builders,4320
+2020,Q2 2020,Apr 2020,Dishwashers,KitchenWare,KWash Mk1,D39930,NY,New York,Department,5850
+2020,Q2 2020,Apr 2020,Microwaves,KitchenWare,KWave Mk1,M21029,NY,New York,Department,1540
+2020,Q2 2020,Apr 2020,Stoves,Acme,AcmeCook HE,S40024,CA,San Diego,Furniture,6075
+2020,Q2 2020,Apr 2020,Dishwashers,Acme,AcmeWash HE,D83021,CA,San Diego,Department,11180
+2020,Q2 2020,Apr 2020,Dishwashers,USAppliance,DripDry Pro,D40002,CA,San Jose,Builders,22000
+2020,Q2 2020,Apr 2020,Stoves,Acme,AcmeCook MR,S40025,CA,San Diego,Department,7695
+2020,Q2 2020,Apr 2020,Dishwashers,Gen A Ltd,GenADish XL,D40060,MA,Boston,Department,4387.5
+2020,Q2 2020,Apr 2020,Dishwashers,Gen A Ltd,GenADish XR,D40061,CA,San Diego,Department,9750
+2020,Q2 2020,Apr 2020,Dishwashers,Acme,AcmeWash MR,D83022,CA,San Diego,Furniture,3430
+2020,Q2 2020,Apr 2020,Microwaves,AutoKitchen,AutoWave S,M60292,CA,San Jose,Department,5590
+2020,Q2 2020,Apr 2020,Microwaves,USAppliance,WaveCook Elite,M80399,NY,New York,Department,7637.5
+2020,Q2 2020,Apr 2020,Stoves,AutoKitchen,AutoStove HT,S30500,NY,New York,Furniture,6277.5
+2020,Q2 2020,Apr 2020,Microwaves,Acme,AcmeWave,M30001,MA,Boston,Department,2730
+2020,Q2 2020,Apr 2020,Microwaves,Acme,AcmeWave,M30001,CA,San Diego,Home,1890
+2020,Q2 2020,Apr 2020,Microwaves,AutoKitchen,AutoWave S,M60292,NY,New York,Home,2902.5
+2020,Q2 2020,Apr 2020,Stoves,AutoKitchen,AutoStove CT,S30499,CA,San Diego,Department,5535
+2020,Q2 2020,Apr 2020,Dishwashers,AutoKitchen,AutoWash LE,D80004,MA,Boston,Department,6240
+2020,Q2 2020,Apr 2020,Dishwashers,KitchenWare,KWash Mk1,D39930,NY,New York,Furniture,900
+2020,Q2 2020,Apr 2020,Microwaves,KitchenWare,KWave Mk3 ,M21031,CA,San Jose,Department,5940
+2020,Q2 2020,Apr 2020,Stoves,AutoKitchen,AutoStove CT,S30499,MA,Boston,Department,5535
+2020,Q2 2020,May 2020,Stoves,Acme,AcmeCook,S40023,CA,San Diego,Home,2100
+2020,Q2 2020,May 2020,Dishwashers,KitchenWare,KWash Mk3,D39932,NY,New York,Department,5400
+2020,Q2 2020,May 2020,Microwaves,USAppliance,WaveCook Pro,M80400,CA,San Jose,Department,6900
+2020,Q2 2020,May 2020,Dishwashers,USAppliance,DripDry Master,D40001,CA,San Jose,Builders,37800
+2020,Q2 2020,May 2020,Dishwashers,Gen A Ltd,GenADish XL,D40060,MA,Boston,Department,4387.5
+2020,Q2 2020,May 2020,Stoves,KitchenWare,StoveTop Mk2,S98001,NY,New York,Department,14300
+2020,Q2 2020,May 2020,Dishwashers,Acme,AcmeWash MR,D83022,CA,San Diego,Rental,1500
+2020,Q2 2020,May 2020,Dishwashers,AutoKitchen,AutoWash GL,D80003,CA,San Diego,Furniture,2970
+2020,Q2 2020,May 2020,Dishwashers,AutoKitchen,AutoWash LE,D80004,NY,New York,Department,4320
+2020,Q2 2020,May 2020,Dishwashers,Acme,AcmeWash,D83020,CA,San Diego,Department,6240
+2020,Q2 2020,May 2020,Microwaves,Acme,AcmeWave MR,M30003,CA,San Diego,Builders,8840
+2020,Q2 2020,May 2020,Stoves,AutoKitchen,AutoStove CT,S30499,NY,New York,Department,5535
+2020,Q2 2020,Jun 2020,Stoves,Acme,AcmeCook,S40023,MA,Boston,Department,4050
+2020,Q2 2020,Jun 2020,Microwaves,AutoKitchen,AutoWave GL,M60293,NY,New York,Department,3105
+2020,Q2 2020,Jun 2020,Microwaves,USAppliance,WaveCook Master,M80401,CA,San Diego,Furniture,1988
+2020,Q2 2020,Jun 2020,Stoves,Gen A Ltd,GenAStove XR,S98979,CA,San Diego,Department,7560
+2020,Q2 2020,Jun 2020,Stoves,USAppliance,HotBox Master,S77667,CA,San Diego,Department,6075
+2020,Q2 2020,Jun 2020,Microwaves,KitchenWare,KWave Mk1,M21029,CA,San Jose,Home,616
+2020,Q2 2020,Jun 2020,Dishwashers,AutoKitchen,AutoWash GL,D80003,CA,San Diego,Department,2970
+2020,Q2 2020,Jun 2020,Microwaves,AutoKitchen,AutoWave S,M60292,MA,Boston,Department,300
+2020,Q2 2020,Jun 2020,Microwaves,KitchenWare,KWave Mk3 ,M21031,CA,San Diego,Department,5940
+2020,Q2 2020,Jun 2020,Dishwashers,Gen A Ltd,GenADish,D40059,MA,Boston,Builders,10718.75
+2020,Q2 2020,Jun 2020,Stoves,USAppliance,HotBox Master,S77667,CA,San Jose,Department,6075
+2020,Q2 2020,Jun 2020,Microwaves,KitchenWare,KWave Mk3 ,M21031,CA,San Jose,Furniture,5940
+2020,Q3 2020,Jul 2020,Microwaves,Gen A Ltd,GenAWave,M10002,MA,Boston,Home,1260
+2020,Q3 2020,Jul 2020,Microwaves,KitchenWare,KWave Mk2,M21030,NY,New York,Department,4860
+2020,Q3 2020,Jul 2020,Microwaves,USAppliance,WaveCook Master,M80401,CA,San Jose,Furniture,1988
+2020,Q3 2020,Jul 2020,Stoves,Acme,AcmeCook MR,S40025,CA,San Diego,Department,7695
+2020,Q3 2020,Jul 2020,Dishwashers,USAppliance,DripDry Pro,D40002,NY,New York,Department,6750
+2020,Q3 2020,Jul 2020,Microwaves,Gen A Ltd,GenAWave XL,M10003,CA,San Diego,Home,1890
+2020,Q3 2020,Jul 2020,Microwaves,AutoKitchen,AutoWave GL,M60293,MA,Boston,Home,3105
+2020,Q3 2020,Jul 2020,Stoves,USAppliance,HotBox Pro,S77666,NY,New York,Department,7425
+2020,Q3 2020,Jul 2020,Stoves,KitchenWare,StoveTop Mk2,S98001,CA,San Jose,Department,3850
+2020,Q3 2020,Jul 2020,Microwaves,Acme,AcmeWave MR,M30003,CA,San Diego,Department,8840
+2020,Q3 2020,Jul 2020,Dishwashers,USAppliance,DripDry Master,D40001,CA,San Diego,Department,13650
+2020,Q3 2020,Jul 2020,Dishwashers,KitchenWare,KWash Mk3,D39932,CA,San Jose,Builders,42500
+2020,Q3 2020,Aug 2020,Dishwashers,USAppliance,DripDry Master,D40001,CA,San Jose,Department,5670
+2020,Q3 2020,Aug 2020,Microwaves,Gen A Ltd,GenAWave XL,M10003,CA,San Diego,Furniture,1890
+2020,Q3 2020,Aug 2020,Dishwashers,KitchenWare,KWash Mk1,D39930,NY,New York,Department,4050
+2020,Q3 2020,Aug 2020,Microwaves,Gen A Ltd,GenAWave XL,M10003,MA,Boston,Builders,378
+2020,Q3 2020,Aug 2020,Microwaves,KitchenWare,KWave Mk3 ,M21031,NY,New York,Furniture,616
+2020,Q3 2020,Aug 2020,Stoves,KitchenWare,StoveTop Mk1,S98000,CA,San Jose,Home,3430
+2020,Q3 2020,Aug 2020,Stoves,Acme,AcmeCook,S40023,MA,Boston,Furniture,4050
+2020,Q3 2020,Aug 2020,Dishwashers,Gen A Ltd,GenADish,D40059,MA,Boston,Department,3307.5
+2020,Q3 2020,Aug 2020,Microwaves,USAppliance,WaveCook Pro,M80400,CA,San Jose,Department,9652.5
+2020,Q3 2020,Aug 2020,Stoves,AutoKitchen,AutoStove HT,S30500,MA,Boston,Department,6277.5
+2020,Q3 2020,Aug 2020,Stoves,Gen A Ltd,GenAStove,S98977,MA,Boston,Department,8840
+2020,Q3 2020,Aug 2020,Microwaves,Gen A Ltd,GenAWave XL,M10003,CA,San Diego,Department,8775
+2020,Q3 2020,Aug 2020,Microwaves,KitchenWare,KWave Mk2,M21030,CA,San Jose,Furniture,2016
+2020,Q3 2020,Aug 2020,Microwaves,KitchenWare,KWave Mk3 ,M21031,CA,San Diego,Department,5940
+2020,Q3 2020,Aug 2020,Stoves,KitchenWare,StoveTop Mk2,S98001,CA,San Diego,Department,10725
+2020,Q3 2020,Aug 2020,Dishwashers,AutoKitchen,AutoWash S,D80002,CA,San Diego,Builders,12000
+2020,Q3 2020,Aug 2020,Stoves,USAppliance,HotBox Elite,S77665,CA,San Jose,Department,5400
+2020,Q3 2020,Aug 2020,Stoves,KitchenWare,StoveTop Mk3,S98002,CA,San Jose,Home,5940
+2020,Q3 2020,Sep 2020,Microwaves,Acme,AcmeWave MR,M30003,CA,San Diego,Home,4590
+2020,Q3 2020,Sep 2020,Stoves,KitchenWare,StoveTop Mk2,S98001,NY,New York,Department,10725
+2020,Q3 2020,Sep 2020,Microwaves,USAppliance,WaveCook Elite,M80399,CA,San Jose,Department,6110
+2020,Q3 2020,Sep 2020,Stoves,Acme,AcmeCook,S40023,CA,San Diego,Builders,11250
+2020,Q3 2020,Sep 2020,Dishwashers,AutoKitchen,AutoWash S,D80002,NY,New York,Department,3780
+2020,Q3 2020,Sep 2020,Dishwashers,Gen A Ltd,GenADish,D40059,MA,Boston,Department,3307.5
+2020,Q3 2020,Sep 2020,Dishwashers,Acme,AcmeWash,D83020,CA,San Diego,Furniture,4320
+2020,Q3 2020,Sep 2020,Stoves,AutoKitchen,AutoStove QR,S30501,NY,New York,Department,9750
+2020,Q3 2020,Sep 2020,Dishwashers,USAppliance,DripDry Master,D40001,CA,San Jose,Department,5670
+2020,Q3 2020,Sep 2020,Dishwashers,AutoKitchen,AutoWash S,D80002,NY,New York,Furniture,7280
+2020,Q3 2020,Sep 2020,Dishwashers,Gen A Ltd,GenADish XR,D40061,CA,San Diego,Home,6750
+2020,Q3 2020,Sep 2020,Stoves,KitchenWare,StoveTop Mk1,S98000,CA,San Diego,Department,6615
+2020,Q4 2020,Oct 2020,Dishwashers,USAppliance,DripDry Master,D40001,CA,San Diego,Department,13650
+2020,Q4 2020,Oct 2020,Dishwashers,USAppliance,DripDry Pro,D40002,MA,Boston,Builders,22000
+2020,Q4 2020,Oct 2020,Microwaves,Gen A Ltd,GenAWave,M10002,CA,San Diego,Department,2430
+2020,Q4 2020,Oct 2020,Dishwashers,USAppliance,DripDry Pro,D40002,MA,Boston,Department,9750
+2020,Q4 2020,Oct 2020,Dishwashers,Gen A Ltd,GenADish XL,D40060,CA,San Diego,Department,4387.5
+2020,Q4 2020,Oct 2020,Stoves,Gen A Ltd,GenAStove,S98977,MA,Boston,Department,4590
+2020,Q4 2020,Oct 2020,Stoves,Acme,AcmeCook MR,S40025,CA,San Diego,Department,7695
+2020,Q4 2020,Oct 2020,Stoves,AutoKitchen,AutoStove CT,S30499,NY,New York,Furniture,2870
+2020,Q4 2020,Oct 2020,Dishwashers,AutoKitchen,AutoWash GL,D80003,NY,New York,Rental,1540
+2020,Q4 2020,Oct 2020,Microwaves,AutoKitchen,AutoWave S,M60292,CA,San Jose,Department,2902.5
+2020,Q4 2020,Oct 2020,Dishwashers,USAppliance,DripDry Master,D40001,CA,San Diego,Department,8190
+2020,Q4 2020,Oct 2020,Stoves,Gen A Ltd,GenAStove,S98977,MA,Boston,Builders,11050
+2020,Q4 2020,Nov 2020,Microwaves,AutoKitchen,AutoWave LE,M60294,NY,New York,Department,5670
+2020,Q4 2020,Nov 2020,Microwaves,AutoKitchen,AutoWave S,M60292,CA,San Jose,Department,4192.5
+2020,Q4 2020,Nov 2020,Dishwashers,USAppliance,DripDry Pro,D40002,MA,Boston,Furniture,6750
+2020,Q4 2020,Nov 2020,Microwaves,Acme,AcmeWave,M30001,MA,Boston,Department,4550
+2020,Q4 2020,Nov 2020,Dishwashers,USAppliance,DripDry Master,D40001,CA,San Jose,Furniture,2940
+2020,Q4 2020,Nov 2020,Stoves,KitchenWare,StoveTop Mk1,S98000,CA,San Diego,Department,6615
+2020,Q4 2020,Nov 2020,Stoves,Acme,AcmeCook MR,S40025,CA,San Diego,Builders,14820
+2020,Q4 2020,Nov 2020,Microwaves,Acme,AcmeWave MR,M30003,CA,San Diego,Department,4590
+2020,Q4 2020,Nov 2020,Microwaves,Gen A Ltd,GenAWave,M10002,CA,San Diego,Department,1260
+2020,Q4 2020,Nov 2020,Dishwashers,Acme,AcmeWash HE,D83021,CA,San Diego,Home,602
+2020,Q4 2020,Nov 2020,Stoves,AutoKitchen,AutoStove QR,S30501,CA,San Diego,Department,1400
+2020,Q4 2020,Nov 2020,Microwaves,KitchenWare,KWave Mk3 ,M21031,MA,Boston,Furniture,4752
+2020,Q4 2020,Dec 2020,Microwaves,AutoKitchen,AutoWave S,M60292,NY,New York,Department,2902.5
+2020,Q4 2020,Dec 2020,Dishwashers,USAppliance,DripDry Master,D40001,CA,San Diego,Department,2940
+2020,Q4 2020,Dec 2020,Dishwashers,Gen A Ltd,GenADish XR,D40061,MA,Boston,Home,3500
+2020,Q4 2020,Dec 2020,Dishwashers,AutoKitchen,AutoWash S,D80002,NY,New York,Department,3780
+2020,Q4 2020,Dec 2020,Stoves,USAppliance,HotBox Pro,S77666,CA,San Jose,Furniture,3850
+2020,Q4 2020,Dec 2020,Dishwashers,KitchenWare,KWash Mk1,D39930,CA,San Diego,Department,4050
+2020,Q4 2020,Dec 2020,Dishwashers,Acme,AcmeWash MR,D83022,CA,San Diego,Builders,24000
+2020,Q4 2020,Dec 2020,Stoves,AutoKitchen,AutoStove CT,S30499,NY,New York,Department,7995
+2020,Q4 2020,Dec 2020,Microwaves,KitchenWare,KWave Mk3 ,M21031,CA,San Jose,Furniture,1232
+2020,Q4 2020,Dec 2020,Dishwashers,Acme,AcmeWash,D83020,CA,San Diego,Department,448
+2020,Q4 2020,Dec 2020,Dishwashers,USAppliance,DripDry Elite,D40000,CA,San Jose,Builders,30000
+2020,Q4 2020,Dec 2020,Microwaves,KitchenWare,KWave Mk1,M21029,NY,New York,Department,2970

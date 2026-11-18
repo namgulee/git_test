@@ -1,0 +1,25 @@
+{
+	"@type":"MDXView",
+	"Name":"Since Period 235",
+	"MDX@Code.link":"Since Period 235.mdx",
+	"Meta" : 
+	{
+		"Aliases" : 
+		{
+			"[QC mPeriods].[QC mPeriods]" : "MEMBER_NAME"
+		},
+		"ContextSets" : 
+		{
+			"[QC mVersions].[QC mVersions]" : 
+			{
+				"Expression" : "{[QC mVersions].[QC mVersions].MEMBERS}"
+			}
+		},
+		"ExpandAboves" : 
+		{
+			"[QC mPeriods].[QC mPeriods]" : false,
+			"[QC mTargets].[QC mTargets]" : false,
+			"[QC mVersions].[QC mVersions]" : false
+		}
+	}
+}

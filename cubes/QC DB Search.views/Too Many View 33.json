@@ -1,0 +1,34 @@
+{
+	"@type":"NativeView",
+	"Name":"Too Many View 33",
+	"Columns":
+	[
+		{
+			"Subset":
+			{
+				"Hierarchy":
+				{
+					"@id":"Dimensions('QC pVersions')/Hierarchies('QC pVersions')"
+				},
+				"Expression":"TM1SubsetAll([QC pVersions])"
+			}
+		}
+	],
+	"Rows":
+	[
+		{
+			"Subset":
+			{
+				"Hierarchy":
+				{
+					"@id":"Dimensions('QC DB Search')/Hierarchies('QC DB Search')"
+				},
+				"Expression":"TM1SubsetAll([QC DB Search])"
+			}
+		}
+	],
+	"Titles":[],
+	"SuppressEmptyColumns":false,
+	"SuppressEmptyRows":false,
+	"FormatString":"0.00"
+}

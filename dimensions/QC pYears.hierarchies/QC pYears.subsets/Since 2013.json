@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"Since 2013",
+	"Expression":"{EXCEPT(TM1SUBSETALL([QC pYears]) , {[QC pYears].[QC pYears].[2010],[QC pYears].[QC pYears].[2011],[QC pYears].[QC pYears].[2012]})}"
+}

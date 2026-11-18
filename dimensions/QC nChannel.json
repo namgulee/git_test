@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"QC nChannel",
+	"Hierarchies@Code.links":
+	[
+		"QC nChannel.hierarchies/QC nChannel.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('QC nChannel')/Hierarchies('QC nChannel')"
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"QC cYears",
+	"Hierarchies@Code.links":
+	[
+		"QC cYears.hierarchies/QC cYears.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('QC cYears')/Hierarchies('QC cYears')"
+	}
+}

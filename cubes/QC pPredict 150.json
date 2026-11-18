@@ -1,0 +1,17 @@
+{
+	"@type":"Cube",
+	"Name":"QC pPredict 150",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('QC pVersions')"
+		},
+		{
+			"@id":"Dimensions('QC pTrends 150')"
+		},
+		{
+			"@id":"Dimensions('QC pYears')"
+		}
+	],
+	"Views@Code.links":[]
+}

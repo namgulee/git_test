@@ -1,0 +1,19 @@
+#region Prolog
+MinorErrorLogMax = -1;
+OnMinorErrorDoItemSkip = 1;
+NumRowsRead = 0;
+NumRowsProcessed = 0;
+SetInputCharacterSet('TM1CS_UTF8');
+CubeClearData('QC mVariables');
+CubeClearData('}CellAnnotations_QC mVariables');
+#endregion
+#region Data
+NumRowsRead = NumRowsRead + 1;
+CellPutN(StringToNumberEx(vValue1,'.',','),'QC mVariables',vDim1_1,vDim2_1);
+NumRowsProcessed = NumRowsProcessed + 1;
+#endregion
+#region Epilog
+If (pResult @<> '');
+TextOutput(pResult, NumberToString(NumRowsRead), NumberToString(NumRowsProcessed));
+EndIf;
+#endregion

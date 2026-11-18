@@ -1,0 +1,92 @@
+{
+	"@type":"Hierarchy",
+	"Name":"QC DB Search",
+	"Elements":
+	[
+		{
+			"Name":"1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"3",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"4",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"5",
+			"Type":"Numeric"
+		}
+	],
+	"Subsets@Code.links":
+	[
+		"QC DB Search.subsets/Too Many Subset 0.json",
+		"QC DB Search.subsets/Too Many Subset 1.json",
+		"QC DB Search.subsets/Too Many Subset 10.json",
+		"QC DB Search.subsets/Too Many Subset 11.json",
+		"QC DB Search.subsets/Too Many Subset 12.json",
+		"QC DB Search.subsets/Too Many Subset 13.json",
+		"QC DB Search.subsets/Too Many Subset 14.json",
+		"QC DB Search.subsets/Too Many Subset 15.json",
+		"QC DB Search.subsets/Too Many Subset 16.json",
+		"QC DB Search.subsets/Too Many Subset 17.json",
+		"QC DB Search.subsets/Too Many Subset 18.json",
+		"QC DB Search.subsets/Too Many Subset 19.json",
+		"QC DB Search.subsets/Too Many Subset 2.json",
+		"QC DB Search.subsets/Too Many Subset 20.json",
+		"QC DB Search.subsets/Too Many Subset 21.json",
+		"QC DB Search.subsets/Too Many Subset 22.json",
+		"QC DB Search.subsets/Too Many Subset 23.json",
+		"QC DB Search.subsets/Too Many Subset 24.json",
+		"QC DB Search.subsets/Too Many Subset 25.json",
+		"QC DB Search.subsets/Too Many Subset 26.json",
+		"QC DB Search.subsets/Too Many Subset 27.json",
+		"QC DB Search.subsets/Too Many Subset 28.json",
+		"QC DB Search.subsets/Too Many Subset 29.json",
+		"QC DB Search.subsets/Too Many Subset 3.json",
+		"QC DB Search.subsets/Too Many Subset 30.json",
+		"QC DB Search.subsets/Too Many Subset 31.json",
+		"QC DB Search.subsets/Too Many Subset 32.json",
+		"QC DB Search.subsets/Too Many Subset 33.json",
+		"QC DB Search.subsets/Too Many Subset 34.json",
+		"QC DB Search.subsets/Too Many Subset 35.json",
+		"QC DB Search.subsets/Too Many Subset 36.json",
+		"QC DB Search.subsets/Too Many Subset 37.json",
+		"QC DB Search.subsets/Too Many Subset 38.json",
+		"QC DB Search.subsets/Too Many Subset 39.json",
+		"QC DB Search.subsets/Too Many Subset 4.json",
+		"QC DB Search.subsets/Too Many Subset 40.json",
+		"QC DB Search.subsets/Too Many Subset 41.json",
+		"QC DB Search.subsets/Too Many Subset 42.json",
+		"QC DB Search.subsets/Too Many Subset 43.json",
+		"QC DB Search.subsets/Too Many Subset 44.json",
+		"QC DB Search.subsets/Too Many Subset 45.json",
+		"QC DB Search.subsets/Too Many Subset 46.json",
+		"QC DB Search.subsets/Too Many Subset 47.json",
+		"QC DB Search.subsets/Too Many Subset 48.json",
+		"QC DB Search.subsets/Too Many Subset 49.json",
+		"QC DB Search.subsets/Too Many Subset 5.json",
+		"QC DB Search.subsets/Too Many Subset 50.json",
+		"QC DB Search.subsets/Too Many Subset 51.json",
+		"QC DB Search.subsets/Too Many Subset 52.json",
+		"QC DB Search.subsets/Too Many Subset 53.json",
+		"QC DB Search.subsets/Too Many Subset 54.json",
+		"QC DB Search.subsets/Too Many Subset 55.json",
+		"QC DB Search.subsets/Too Many Subset 56.json",
+		"QC DB Search.subsets/Too Many Subset 57.json",
+		"QC DB Search.subsets/Too Many Subset 58.json",
+		"QC DB Search.subsets/Too Many Subset 59.json",
+		"QC DB Search.subsets/Too Many Subset 6.json",
+		"QC DB Search.subsets/Too Many Subset 60.json",
+		"QC DB Search.subsets/Too Many Subset 61.json",
+		"QC DB Search.subsets/Too Many Subset 7.json",
+		"QC DB Search.subsets/Too Many Subset 8.json",
+		"QC DB Search.subsets/Too Many Subset 9.json"
+	]
+}

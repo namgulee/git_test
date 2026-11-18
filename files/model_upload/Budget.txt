@@ -1,0 +1,7 @@
+Business Unit,Budget,Value (Number)
+Marketing,Budget,100
+Sales,Budget,500
+Marketing,Budget,70
+Support,Budget,200
+HR,Budget,30
+R&D,Budget,150

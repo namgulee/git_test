@@ -1,0 +1,14 @@
+{
+	"@type":"Cube",
+	"Name":"QC mVariables",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('QC mVariables')"
+		},
+		{
+			"@id":"Dimensions('QC mPeriods')"
+		}
+	],
+	"Views@Code.links":[]
+}

@@ -1,0 +1,14 @@
+{
+	"@type":"Dimension",
+	"Name":"QC mTargets",
+	"AllLeavesHierarchyName":"Leaves",
+	"Hierarchies@Code.links":
+	[
+		"QC mTargets.hierarchies/QC mTargets.json",
+		"QC mTargets.hierarchies/QC mTargets Hier.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('QC mTargets')/Hierarchies('QC mTargets')"
+	}
+}
