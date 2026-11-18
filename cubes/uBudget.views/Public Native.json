@@ -1,0 +1,37 @@
+{
+	"@type":"NativeView",
+	"Name":"Public Native",
+	"Columns":
+	[
+		{
+			"Subset":
+			{
+				"Hierarchy":
+				{
+					"@id":"Dimensions('uBudget')/Hierarchies('uBudget')"
+				},
+				"Expression":"{[uBudget].[uBudget].MEMBERS}"
+			}
+		}
+	],
+	"Rows":
+	[
+		{
+			"Subset":
+			{
+				"Hierarchy":
+				{
+					"@id":"Dimensions('uUnit')/Hierarchies('uUnit')"
+				},
+				"Expression":"{[uUnit].[uUnit].MEMBERS}"
+			}
+		}
+	],
+	"Titles":[],
+	"SuppressEmptyColumns":false,
+	"SuppressEmptyRows":false,
+	"FormatString":"0.00",
+	"IsAutocalculate" : true,
+	"IsDeferComputeOnLeafDataEntry" : false,
+	"IsSuppressComputeOnOpen" : false
+}

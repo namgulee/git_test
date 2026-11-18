@@ -1,0 +1,18 @@
+{
+	"@type":"MDXView",
+	"Name":"Public MDX",
+	"MDX@Code.link":"Public MDX.mdx",
+	"IsAutocalculate" : true,
+	"IsDeferComputeOnLeafDataEntry" : false,
+	"IsSuppressComputeOnOpen" : false,
+	"Meta" : 
+	{
+		"Aliases" : {},
+		"ContextSets" : {},
+		"ExpandAboves" : 
+		{
+			"[uBudget].[uBudget]" : false,
+			"[uUnit].[uUnit]" : false
+		}
+	}
+}

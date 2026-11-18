@@ -1,0 +1,12 @@
+{
+	"@type":"Hierarchy",
+	"Name":"uBudget",
+	"Elements":
+	[
+		{
+			"Name":"Budget",
+			"Type":"Numeric"
+		}
+	],
+	"Subsets@Code.links":[]
+}

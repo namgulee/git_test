@@ -1,0 +1,28 @@
+{
+	"@type":"Hierarchy",
+	"Name":"uUnit",
+	"Elements":
+	[
+		{
+			"Name":"MARKETING",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SALES",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SUPPORT",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HR",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"R&D",
+			"Type":"Numeric"
+		}
+	],
+	"Subsets@Code.links":[]
+}

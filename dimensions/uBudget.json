@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"uBudget",
+	"Hierarchies@Code.links":
+	[
+		"uBudget.hierarchies/uBudget.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('uBudget')/Hierarchies('uBudget')"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"@type":"Cube",
+	"Name":"uBudget",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('uUnit')"
+		},
+		{
+			"@id":"Dimensions('uBudget')"
+		}
+	],
+	"Views@Code.links":
+	[
+		"uBudget.views/Public Native.json",
+		"uBudget.views/Public MDX.json"
+	]
+}
