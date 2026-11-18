@@ -1,0 +1,14 @@
+{
+	"@type":"Cube",
+	"Name":"QC bBusiness",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('QC bUnit')"
+		},
+		{
+			"@id":"Dimensions('QC bBudget')"
+		}
+	],
+	"Views@Code.links":[]
+}
