@@ -1,0 +1,6 @@
+{
+	"@type":"Subset",
+	"Name":"109_p",
+	"Alias":"MEMBER_NAME",
+	"Expression":"{[plan_controls].[plan_controls].MEMBERS}"
+}

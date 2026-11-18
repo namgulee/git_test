@@ -1,0 +1,21 @@
+#region Prolog
+
+vAttributesCube = '}ElementAttributes_' | pDimension;
+vAttributesView = '}git';
+vExportFile     = pDir | pDimension | '.dat';
+
+vMDX = 'SELECT {[' | pDimension | '].[' | pDimension | '].MEMBERS}*{[' | vAttributesCube | '].[' | vAttributesCube | '].MEMBERS} ON 0 FROM [' | vAttributesCube | ']';
+#ASCIIOutput( pDimension | '_mdx.txt', vMDX );
+ViewCreateByMDX ( vAttributesCube, vAttributesView, vMDX, 1 );
+
+DataSourceType          = 'VIEW';
+DatasourceNameForServer = vAttributesCube;
+DatasourceCubeview      = vAttributesView;
+
+#endregion
+#region Data
+
+SETOUTPUTCHARACTERSET (vExportFile, 'TM1CS_UTF8');
+vAttributeType = DTYPE (vAttributesCube, v2);
+TEXTOUTPUT(vExportFile, vAttributeType, v1, v2, value );
+#endregion
